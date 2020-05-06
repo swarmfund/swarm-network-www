@@ -34,9 +34,9 @@ The following four contracts relate to and are referenced from a unique SRC20 se
 | Example | [NUVO on Ropsten](https://ropsten.etherscan.io/token/0xAe3CB523328ae4A8E5aFa6E1b856c7F6C67a7d28) |
 
 #### Read Functions
-
-| \_allowances | See Allowances below |
+| Name | Description
 | :--- | :--- |
+| \_allowances | See Allowances below |
 | name | Name of this SRC20 token as set by the issuer |
 | totalSupply | Current SRC20 supply \(in Wei\) |
 | decimals | Number of decimal places this SRC20 token is defined to |
@@ -57,9 +57,9 @@ The following four contracts relate to and are referenced from a unique SRC20 se
 | getTransferNonce | Returns next nonce expected by transfer functions for a certain address |
 
 #### Write Functions
-
-| transferTokenForced | **Only token issuers can call this function.** Transfers tokens from one address to another. This call only requires that _from_ address has sufficient tokens; other checks are skipped. \ \* Requires 'ForceTransfer' feature enabled |
+| Name | Description
 | :--- | :--- |
+| transferTokenForced | **Only token issuers can call this function.** Transfers tokens from one address to another. This call only requires that _from_ address has sufficient tokens; other checks are skipped. \ \* Requires 'ForceTransfer' feature enabled |
 | approve | Approve the _spender address_ to spend the specified amount of tokens on behalf of the function caller’s address |
 | bulkTransfer | Perform multiple token transfers from the token owner's address. The tokens must already be minted. Can only be executed by a delegate \ 1. Token issuer must first specify a delegate \(owner is not a delegate by default\) to use this function \ 2. Token issuer must call approve\(\) function to allow delegate to spend |
 | burnAccount | **Only token issuers can call this function.** Burns an amount of tokens from a specified address. Tokens are sent to the zero address |
