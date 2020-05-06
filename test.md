@@ -1,5 +1,11 @@
 # Test
 
+## SRC20 Smart Contract Index
+
+### Smart contracts created per each new security token \(one per SRC20 token\)
+
+|  |
+| :--- |
 
 
 ### 
@@ -8,33 +14,26 @@
 
 #### Smart contracts created per each new security token \(one per SRC20 token\)
 
-|  |
-| :--- |
-
-
-
-
-#### Smart contracts created per each new security token \(one per SRC20 token\)
-
 | SC Name | Description | Example |
 | :--- | :--- | :--- |
-| Transfer Rules | Manages whitelists and greylists for holders of a specific SRC20 token. | [Link](https://ropsten.etherscan.io/address/0xad872227FBCEE4271a2F89C4c9B7df0cc86E0e71#code) |
+| \`Transfer Rules\` | Manages whitelists and greylists for holders of a specific SRC20 token. | [Link](https://ropsten.etherscan.io/address/0xad872227FBCEE4271a2F89C4c9B7df0cc86E0e71#code) |
 | Token Features | Managing additional token contract features for a specific SRC20 token, and for checking the state of the token contract \(e.g whether it is currently paused for transfers\). | [Link](https://ropsten.etherscan.io/address/0x31830850853A9fa8cb7CC7Fbf5bD5f807B8B5B8e#code) |
 | Roles | Manages the addresses that can perform restricted actions for a specific SRC20 token as defined by the contract owner. SRC20 tokens can have four types of roles: Owner, Authority, Manager and Delegate. | [Link](https://ropsten.etherscan.io/address/0x32da71b47888a8c900761dff4fecd37c2e2da654#code) |
 
-### Smart Contract Feature Description - Specific Contracts
+## Smart Contract Feature Description - Specific Contracts
 
 The following four contracts relate to and are referenced from a unique SRC20 security token.
 
-### **SRC20 Token - Smart Contract**
+## **SRC20 Token - Smart Contract**
 
 | Created | Final Step in SWARM Tokenization App |
 | :--- | :--- |
 | Purpose | Creates and configures a specific SRC20 Security Token |
 | Example | [NUVO on Ropsten](https://ropsten.etherscan.io/token/0xAe3CB523328ae4A8E5aFa6E1b856c7F6C67a7d28) |
 
-#### Read Functions
-| Name | Description
+### Read Functions
+
+| Name | Description |
 | :--- | :--- |
 | \_allowances | See Allowances below |
 | name | Name of this SRC20 token as set by the issuer |
@@ -56,12 +55,13 @@ The following four contracts relate to and are referenced from a unique SRC20 se
 | \_rules | Address of the TokenRules smart contract for this SRC20 token |
 | getTransferNonce | Returns next nonce expected by transfer functions for a certain address |
 
-#### Write Functions
-| Name | Description
+### Write Functions
+
+| Name | Description |
 | :--- | :--- |
-| transferTokenForced | **Only token issuers can call this function.** Transfers tokens from one address to another. This call only requires that _from_ address has sufficient tokens; other checks are skipped. \ \* Requires 'ForceTransfer' feature enabled |
+| transferTokenForced | **Only token issuers can call this function.** Transfers tokens from one address to another. This call only requires that _from_ address has sufficient tokens; other checks are skipped.  \* Requires 'ForceTransfer' feature enabled |
 | approve | Approve the _spender address_ to spend the specified amount of tokens on behalf of the function caller’s address |
-| bulkTransfer | Perform multiple token transfers from the token owner's address. The tokens must already be minted. Can only be executed by a delegate \ 1. Token issuer must first specify a delegate \(owner is not a delegate by default\) to use this function \ 2. Token issuer must call approve\(\) function to allow delegate to spend |
+| bulkTransfer | Perform multiple token transfers from the token owner's address. The tokens must already be minted. Can only be executed by a delegate  1. Token issuer must first specify a delegate \(owner is not a delegate by default\) to use this function  2. Token issuer must call approve\(\) function to allow delegate to spend |
 | burnAccount | **Only token issuers can call this function.** Burns an amount of tokens from a specified address. Tokens are sent to the zero address |
 | transferFrom \[from, to, value\] | Internal function used by the Transfer Rules contract of this SRC20 to check if a transfer requires an authorization |
 | transferToken | Transfer token to specified address. Caller needs to provide an authorization signature obtained from MAP API, signed by an authority accepted by the token issuer. _Used by the transfer function after transfer validity is acquired_ |
