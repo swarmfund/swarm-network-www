@@ -48,7 +48,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">`currenciesList[address]` returns `(struct)`</td>
+      <td style="text-align:left"><code>currenciesList[address]</code> returns <code>(struct)</code></td>
       <td style="text-align:left">
         <p>An array of CurrencyStats Objects. These objects have the following structure:</p>
         <code>
@@ -60,7 +60,7 @@
         <p>uint256 totalQualifiedAmount;</p>
         <p>}</p>
         </code>
-        <p>To obtain the first object in the array use currencyList[0]</p>
+        <p>To obtain the first object in the array use <code>currencyList[0]</code></p>
       </td>
     </tr>
     <tr>
