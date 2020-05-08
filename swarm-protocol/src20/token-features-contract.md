@@ -11,87 +11,20 @@
 
 | Function | Description |
 | :--- | :--- |
+| `isTokenPaused` | Displays _true_/_false_ based on whether the SRC20 token contract is paused |
+| `pausable` | Displays the index of this feature, for checking if enabled. Index = 2 |
+| `paused` | Displays _true_/_false_ based on whether the SRC20 token contract is paused |
+| `isEnabled` | Returns _true_/_false_ based on whether a specific SRC20 token feature is enabled. Requires the user to enter the index of the feature. |
+| `accountBurning` | Displays the index of this feature, for checking if enabled. Index = 4 |
+| `accountFreezing` | Displays the index of this feature, for checking if enabled. Index = 8 |
+| `_enabledFeatures` | Internal function |
+| `owner` | Returns the address of the contract owner |
+| `isOwner` | Returns _true_ if the caller is the contract owner |
+| `forceTransfer` | Displays the index of this feature, for checking if enabled. Index = 1
+| `checkTransfer` | Call to check if a transfer of SRC20 tokens between two addresses will pass under any restrictions set by this Features contract. Transfer rules need to be checked separately in the Transfer Rules contract of this SRC20 |
+| `isAccountFrozen` | Returns _true_/_false_ whether a specified account holding these SRC20 tokens is frozen, meaning it is disabled from being able to make transfers of any of this SRC20 token |
 
-
-| \`isTokenPaused\` | Displays _true_/_false_ based on whether the SRC20 token contract is paused |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">`pausable`</th>
-      <th style="text-align:left">
-        <p>Displays the index of this feature, for checking if enabled.</p>
-        <p> <em>Index = 2</em>
-        </p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>| \`paused\` | Displays _true_/_false_ based on whether the SRC20 token contract is paused |
-| :--- | :--- |
-
-
-| \`isEnabled\` | Returns _true_/_false_ based on whether a specific SRC20 token feature is enabled. Requires the user to enter the index of the feature. |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">`accountBurning`</th>
-      <th style="text-align:left">
-        <p>Displays the index of this feature, for checking if enabled.</p>
-        <p> <em>Index = 4</em>
-        </p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">`accountFreezing`</th>
-      <th style="text-align:left">
-        <p>Displays the index of this feature, for checking if enabled.</p>
-        <p> <em>Index = 8</em>
-        </p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>| \`\_enabledFeatures\` | Internal function |
-| :--- | :--- |
-
-
-| \`owner\` | Returns the address of the contract owner |
-| :--- | :--- |
-
-
-| \`isOwner\` | Returns _true_ if the caller is the contract owner |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">`forceTransfer`</th>
-      <th style="text-align:left">
-        <p>Displays the index of this feature, for checking if enabled.</p>
-        <p> <em>Index = 1</em>
-        </p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>| \`checkTransfer\` | Call to check if a transfer of SRC20 tokens between two addresses will pass under any restrictions set by this Features contract. Transfer rules need to be checked separately in the Transfer Rules contract of this SRC20 . |
-| :--- | :--- |
-
-
-| \`isAccountFrozen\` | Returns _true_/_false_ whether a specified account holding these SRC20 tokens is frozen, meaning it is disabled from being able to make transfers of any of this SRC20 token |
-| :--- | :--- |
-
+**Write Functions**
 
 | Function | Description |
 | :--- | :--- |
