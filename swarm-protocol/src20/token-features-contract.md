@@ -94,10 +94,10 @@
 
 | Function | Description |
 | :--- | :--- |
-| \`pauseToken\` | Pauses the SRC20 token. No transfers of any kind can take place while being paused. Can only be called by the contract owner if Pausable functionality is enabled |
-| \`renounceOwnership\` | Leaves this Token Features contract without an owner. Can only be called by the contract owner. Subsequently, it will no longer be possible to call functions with \`onlyOwner\` modifiers, thereby removing any functionality that is only available to the contract owner. |
-| \`unfreezeAccount\` | Unfreezes a specific address, enabling it to initiate transfers. Can only be called by the contract owner if \`AccountFreezing\` functionality is enabled. |
-| \`unPauseToken\` | Reverses the pausing of a token and transfers for this SRC20 token will resume being possible. Can only be called by the contract owner if Pausable functionality is enabled. |
-| \`freezeAccount\` | Freezes a specific address, disabling it from being able to initiate transfers of this SRC20 token. Can only be called by the contract owner if \`AccountFreezing\` functionality is enabled. |
-| \`transferOwnership\` | Transfers ownership of this \`Token Features\` contract to a new contract owner. Can only be called by the contract owner. |
+| `pauseToken` | Pauses the SRC20 token. No transfers of any kind can take place while being paused. Can only be called by the contract owner if Pausable functionality is enabled |
+| `renounceOwnership` | Leaves this Token Features contract without an owner. Can only be called by the contract owner. Subsequently, it will no longer be possible to call functions with `onlyOwner` modifiers, thereby removing any functionality that is only available to the contract owner. |
+| `unfreezeAccount` | Unfreezes a specific address, enabling it to initiate transfers. Can only be called by the contract owner if `AccountFreezing` functionality is enabled. |
+| `unPauseToken` | Reverses the pausing of a token and transfers for this SRC20 token will resume being possible. Can only be called by the contract owner if Pausable functionality is enabled. |
+| `freezeAccount` | Freezes a specific address, disabling it from being able to initiate transfers of this SRC20 token. Can only be called by the contract owner if `AccountFreezing` functionality is enabled. |
+| `transferOwnership` | Transfers ownership of this `Token Features` contract to a new contract owner. Can only be called by the contract owner. |
 

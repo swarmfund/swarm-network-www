@@ -18,20 +18,20 @@
 
 | Function | Description |
 | :--- | :--- |
-| \`getNetAssetValueUSD\` | Returns the registered NAV for a specific SRC20 |
-| \`\_src20Factory\` returns \`\(address\)\` | \(...\) |
-| \`owner\` returns \`\(address\)\` | Returns the address of the contract owner |
-| \`isOwner\` returns \`\(bool\)\` | Returns _true_ if the caller is the contract owner |
-| \`assetList\` returns \`kyaHash\(bytes32\), kyaUrl\(string\), netAssetValueUSD\(uint256\)\` | Returns all KYA data \(NAV, KYA hash, KYA URL\) registered in this contract for a specific SRC20 |
-| \`getKYA\` returns \`\(bytes32\), \(string\)\` | Returns the KYA data \(KYA hash, KYA URL\) registered in this contract for a specific SRC20 |
+| `getNetAssetValueUSD` | Returns the registered NAV for a specific SRC20 |
+| `\_src20Factory` returns `\(address\)` | \(...\) |
+| `owner` returns `\(address\)` | Returns the address of the contract owner |
+| `isOwner` returns `\(bool\)` | Returns _true_ if the caller is the contract owner |
+| `assetList` returns `kyaHash\(bytes32\), kyaUrl\(string\), netAssetValueUSD\(uint256\)` | Returns all KYA data \(NAV, KYA hash, KYA URL\) registered in this contract for a specific SRC20 |
+| `getKYA` returns `\(bytes32\), \(string\)` | Returns the KYA data \(KYA hash, KYA URL\) registered in this contract for a specific SRC20 |
 
 **Write Functions**
 
 | Function | Description |
 | :--- | :--- |
-| \`addAsset\` | Creates a new record for of KYA data \(NAV, KYA hash, KYA URL\) for a specific SRC20 in this contract |
-| \`renounceOwnership\` | Contract owner can renounce ownership of the contract |
-| \`updateNetAssetValueUSD\` | Updates the NAV value for a specific SRC20 |
-| \`TransferOwnership\` returns \`newOwner\(address\)\` | Transfers ownership of this contract to another address |
-| \`udateKYA\` | Updates the KYA data \(KYA hash, KYA URL\) registered in this contract for a specific SRC20 |
+| `addAsset` | Creates a new record for of KYA data \(NAV, KYA hash, KYA URL\) for a specific SRC20 in this contract |
+| `renounceOwnership` | Contract owner can renounce ownership of the contract |
+| `updateNetAssetValueUSD` | Updates the NAV value for a specific SRC20 |
+| `TransferOwnership` returns `newOwner\(address\)` | Transfers ownership of this contract to another address |
+| `udateKYA` | Updates the KYA data \(KYA hash, KYA URL\) registered in this contract for a specific SRC20 |
 

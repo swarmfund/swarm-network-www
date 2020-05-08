@@ -18,31 +18,31 @@
 
 | Function | Description |
 | :--- | :--- |
-| \`\_whitelisted\` | Returns if an address is whitelisted |
-| \`\_reqNumber\` | Returns the index of the most recent greylist transfer request |
-| \`\_transferReq\` | Returns the details of a specific greylist transfer request. Returns the from address, to address and the value to be transferred. **Note: To view the details of \_reqNumber “1” use \_transferReq “0” and so on.** |
-| \`\_greyList\` | Returns if an address is greylisted |
-| \`\_src20\` | Displays the address of the corresponding SRC20 token contract \(after it is created\) |
-| \`owner\` | Displays the address of the contract owner |
-| \`isGreyListed\` | Returns if an address is greylisted |
+| `\_whitelisted` | Returns if an address is whitelisted |
+| `\_reqNumber` | Returns the index of the most recent greylist transfer request |
+| `\_transferReq` | Returns the details of a specific greylist transfer request. Returns the from address, to address and the value to be transferred. **Note: To view the details of \_reqNumber “1” use \_transferReq “0” and so on.** |
+| `\_greyList` | Returns if an address is greylisted |
+| `\_src20` | Displays the address of the corresponding SRC20 token contract \(after it is created\) |
+| `owner` | Displays the address of the contract owner |
+| `isGreyListed` | Returns if an address is greylisted |
 
 **Write Functions**
 
 | Function | Description |
 | :--- | :--- |
-| \`bulkUnGreyListAccount\` | Function to remove multiple addresses from the whitelist. Each account must be separated by a comma \(e.g. \[0x00, 0x00, 0x00\]\). Can only be called by the contract owner |
-| \`doTransfer\` | Internal function when setting up a transfer. It is executed when transferring SRC20 tokens that checks if the transfer can successfully execute respecting transfer restrictions. If both addresses are on the whitelist, the transfer can go through. If either address is in the greylist, it creates a transfer authorization request. |
-| \`authorize\` | Internal function to check if the transfer is authorized. It returns true if an \`_address from_\` is either in the whitelist or greylist AND if the \`_address to_\` is also either in the whitelist or greylist. Can only be called by another contract. |
-| \`cancelTransferRequest\` | Cancels a specific transfer request. Can only be called by initiator of transfer request |
-| \`bulkUnWhitelistAccount\` | Owner can call this function to remove multiple addresses from the whitelist. Each account must be separated by a comma \(e.g. \[0x00, 0x00, 0x00\]\) Can only be called by the contract owner |
-| \`whitelistAccount\` | Adds a single address to the whitelist. Can only be called by the contract owner. |
-| \`renounceOwnership\` | Contract owner can renounce ownership of the contract |
-| \`bulkWhitelistAccount\` | Adds multiple addresses to the whitelist. Each account must be separated by a comma \(e.g. \[0x00, 0x00, 0x00\]\). Can only be called by the contract owner. |
-| \`unGreyListAccount\` | Removes a single address from the greylist. Can only be called by the contract owner. |
-| \`transferApproval\` | For token issuer to approve pending transfers. Note, to approve \`transferReq\` “3” , enter \`reqNumber\` “2”. |
-| \`bulkGreyListAccount\` | Adds multiple addresses to the greylist. Each account must be separated by a comma \(e.g.. Ex. \[0x00, 0x00, 0x00\)\]. Can only be called by the contract owner. |
-| \`GreyListAccount\` | Adds a single address to the greylist. Can only be called by the contract owner. |
-| \`unWhiteListAccount\` | Removes a single address from the whitelist. Can only be called by the contract owner. |
-| \`transferOwnership\` | Transfers ownership of this contract to another address. Can only be called by the contract owner. |
-| \`setSRC\` | Registers the SRC20 token contract for which these rules apply. Can only be set once and is disabled after the creation of the contract. Calling it subsequently will return an error |
+| `bulkUnGreyListAccount` | Function to remove multiple addresses from the whitelist. Each account must be separated by a comma \(e.g. \[0x00, 0x00, 0x00\]\). Can only be called by the contract owner |
+| `doTransfer` | Internal function when setting up a transfer. It is executed when transferring SRC20 tokens that checks if the transfer can successfully execute respecting transfer restrictions. If both addresses are on the whitelist, the transfer can go through. If either address is in the greylist, it creates a transfer authorization request. |
+| `authorize` | Internal function to check if the transfer is authorized. It returns true if an `_address from_` is either in the whitelist or greylist AND if the `_address to_` is also either in the whitelist or greylist. Can only be called by another contract. |
+| `cancelTransferRequest` | Cancels a specific transfer request. Can only be called by initiator of transfer request |
+| `bulkUnWhitelistAccount` | Owner can call this function to remove multiple addresses from the whitelist. Each account must be separated by a comma \(e.g. \[0x00, 0x00, 0x00\]\) Can only be called by the contract owner |
+| `whitelistAccount` | Adds a single address to the whitelist. Can only be called by the contract owner. |
+| `renounceOwnership` | Contract owner can renounce ownership of the contract |
+| `bulkWhitelistAccount` | Adds multiple addresses to the whitelist. Each account must be separated by a comma \(e.g. \[0x00, 0x00, 0x00\]\). Can only be called by the contract owner. |
+| `unGreyListAccount` | Removes a single address from the greylist. Can only be called by the contract owner. |
+| `transferApproval` | For token issuer to approve pending transfers. Note, to approve `transferReq` “3” , enter `reqNumber` “2”. |
+| `bulkGreyListAccount` | Adds multiple addresses to the greylist. Each account must be separated by a comma \(e.g.. Ex. \[0x00, 0x00, 0x00\)\]. Can only be called by the contract owner. |
+| `GreyListAccount` | Adds a single address to the greylist. Can only be called by the contract owner. |
+| `unWhiteListAccount` | Removes a single address from the whitelist. Can only be called by the contract owner. |
+| `transferOwnership` | Transfers ownership of this contract to another address. Can only be called by the contract owner. |
+| `setSRC` | Registers the SRC20 token contract for which these rules apply. Can only be set once and is disabled after the creation of the contract. Calling it subsequently will return an error |
 
