@@ -34,5 +34,10 @@
   * [SRC20 Registry Contract](swarm-protocol/src20/src20-registry-contract.md)
   * [Asset Registry Contract](swarm-protocol/src20/asset-registry-contract.md)
   * [Minter Contract](swarm-protocol/src20/minter-contract.md)
-* [SwarmPoweredFundraise](swarm-protocol/spf.md)
+* [SwarmPoweredFundraise](swarm-protocol/spf/README.md)
+  * [Uniswap Proxy Contract](swarm-protocol/spf/uniswap-proxy-contract.md)
+  * [Currency Registry Contract](swarm-protocol/spf/currency-registry-contract.md)
+  * [Affiliate Manager Contract](swarm-protocol/spf/affiliate-manager-contract.md)
+  * [Swarm Powered Fundraise Contract](swarm-protocol/spf/swarm-powered-fundraise-contract.md)
+  * [Contributor Restrictions Contract](swarm-protocol/spf/contributor-restrictions-contract.md)
 
