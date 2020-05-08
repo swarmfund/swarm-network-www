@@ -50,7 +50,8 @@
       </td>
     </tr>
   </tbody>
-</table>**Read Functions**
+</table>
+**Read Functions**
 
 | Function | Description |
 | :--- | :--- |
