@@ -4,7 +4,9 @@ description: Instructions for how to claim masternode rewards manually
 
 # Masternode Rewards
 
-Some masternode operators have experienced errors or UI issues when trying to claim rewards via [https://masternodes.swarm.fund/](https://masternodes.swarm.fund/#/)
+Here's a [guide on how to claim your Masternode rewards](https://medium.com/swarmfund/claim-your-swarm-masternode-rewards-b9cc83574a14).
+
+Some Masternode operators have experienced errors or UI issues when trying to claim rewards via [https://masternodes.swarm.fund/](https://masternodes.swarm.fund/#/)
 
 In this case, follow these simple instructions for claiming Masternode Rewards manually:
 
