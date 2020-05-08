@@ -11,30 +11,14 @@
 
 | Item | Description |
 | :--- | :--- |
-
-
 | Owner | Owner is the owner of the \`Roles\` smart contract |
-| :--- | :--- |
-
-
 | Delegate | Address responsible for updating the KYA document, Net Asset Value, transfer restrictions and rules and perform bulk transfers that bypass whitelist and greylist. |
-| :--- | :--- |
-
-
 | Authority | Is able to authorize SRC20 token direct transfers \(MAP\) onchain or offchain. |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Manager</th>
-      <th style="text-align:left">
-        <p>The manager is responsible for minting or burning tokens. \ \ There can
+| Manager | The manager is responsible for minting or burning tokens; there can
           be only one Manager per SRC20 token.</p>
         <p>Managers can perform the following action:</p>
         <ul>
-          <li>`<em><b>Renounce Management</b></em>` - If a manager renounces management
+          <li>`<em>Renounce Management</b></em>` - If a manager renounces management
             there is no possible way to mint or burn SRC20 tokens anymore.</li>
           <li>
             <p>`<em><b>Transfer Management</b></em>` - A manager can transfer their role
@@ -43,15 +27,14 @@
               of the Roles contract can call the decrease or increase function from the
               `<b>Manager Account</b>`</p>
           </li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>| Function | Description |
+        </ul> |
+
+**Read Functions**
+
+| Function | Description |
 | :--- | :--- |
 | `isDelegate` | Returns _true_/_false_ whether an address is a Delegate for this token contract |
-| `isAuthority` | Returns _true_/\_fals\_e whether an address is an Authority for this token contract |
+| `isAuthority` | Returns _true_/_false_ whether an address is an Authority for this token contract |
 | `manager` | Returns the address of the Manager contract. This is normally the address of the `SRC20Registry` contract, where staking and minting is executed |
 | `owner` | Returns the address of the contract owner |
 | `isOwner` | Returns _true_ if the caller is the current owner |
