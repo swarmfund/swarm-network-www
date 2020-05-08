@@ -1,8 +1,27 @@
-# Table of contents
 
-* [Swarm Network](README.md)
-* [Governance](https://docs.swarmnetwork.org/)
-* [SRC20](https://docs.swarmnetwork.org/)
-* [Test](test.md)
-* [FAQ](faq.md)
+## Swarm Network
 
+[Network Governance](Network-Governance/README.md)
+* [Getting started](Network-Governance/getting-started.md)
+* [The Swarm Network](Network-Governance/the-swarm-network/README.md)
+  * [Powers](Network-Governance/the-swarm-network/powers.md)
+  * [Governance](Network-Governance/the-swarm-network/governance.md)
+  * [Members](Network-Governance/the-swarm-network/members.md)
+  * [The Swarm Council](Network-Governance/the-swarm-network/the-swarm-council.md)
+  * [Treasury](Network-Governance/the-swarm-network/treasury.md)
+* [Initiating Governance Actions](Network-Governance/actions/README.md)
+  * [Introduction](Network-Governance/actions/ballots.md)
+  * [Proposals](Network-Governance/actions/proposals.md)
+  * [Ballot Types](Network-Governance/actions/ballot-types.md)
+    * [Submitting a GAP](Network-Governance/actions/proposal-process.md)
+* [Governance Action Voting Process](Network-Governance/intro/README.md)
+  * [Ballots](Network-Governance/intro/ballots/README.md)
+    * [Retrieving the text of previous ballots](Network-Governance/intro/ballots/retrieving-the-text-of-previous-ballots.md)
+  * [Voting](Network-Governance/intro/voting.md)
+[Masternodes](Masternodes/README.md)
+* [Masternode Rewards](Masternodes/masternode-rewards.md)
+
+## Swarm Protocol
+
+[SRC20](SRC20/README.md)
+[SwarmPoweredFundraise](SPF/README.md)
