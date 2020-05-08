@@ -18,11 +18,11 @@
 
 | Function | Description |
 | :--- | :--- |
-| `\_whitelisted` | Returns if an address is whitelisted |
-| `\_reqNumber` | Returns the index of the most recent greylist transfer request |
-| `\_transferReq` | Returns the details of a specific greylist transfer request. Returns the from address, to address and the value to be transferred. **Note: To view the details of \_reqNumber “1” use \_transferReq “0” and so on.** |
-| `\_greyList` | Returns if an address is greylisted |
-| `\_src20` | Displays the address of the corresponding SRC20 token contract \(after it is created\) |
+| `_whitelisted` | Returns if an address is whitelisted |
+| `_reqNumber` | Returns the index of the most recent greylist transfer request |
+| `_transferReq` | Returns the details of a specific greylist transfer request. Returns the from address, to address and the value to be transferred. **Note: To view the details of \_reqNumber “1” use \_transferReq “0” and so on.** |
+| `_greyList` | Returns if an address is greylisted |
+| `_src20` | Displays the address of the corresponding SRC20 token contract \(after it is created\) |
 | `owner` | Displays the address of the contract owner |
 | `isGreyListed` | Returns if an address is greylisted |
 

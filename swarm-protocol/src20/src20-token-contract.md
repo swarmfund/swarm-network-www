@@ -11,24 +11,24 @@
 
 | Function | Description |
 | :--- | :--- |
-| `\_allowances` | See Allowances below |
+| `_allowances` | See Allowances below |
 | `name` | Name of this SRC20 token as set by the issuer |
 | `totalSupply` | Current SRC20 supply \(in Wei\) |
 | `decimals` | Number of decimal places this SRC20 token is defined to |
-| `\_maxTotalSupply` | Maximum supply of this SRC20 tokens that can be minted \(in Wei\) |
-| `\_totalSupply` | Same as totalSupply |
-| `\_restrictions` | Address of the Transfer Restriction contract governing transfers for this SRC20 \(not yet implemented\) |
-| `\_balances` | Returns the token balance for this SRC20 of a specific address |
+| `_maxTotalSupply` | Maximum supply of this SRC20 tokens that can be minted \(in Wei\) |
+| `_totalSupply` | Same as totalSupply |
+| `_restrictions` | Address of the Transfer Restriction contract governing transfers for this SRC20 \(not yet implemented\) |
+| `_balances` | Returns the token balance for this SRC20 of a specific address |
 | `balanceOf` | Returns the token balance for this SRC20 of a specific address |
-| `\_roles` | Address of the Roles smart contract governing roles for this SRC20 |
+| `_roles` | Address of the Roles smart contract governing roles for this SRC20 |
 | `owner` | Returns the address of the contract owner |
 | `isOwner` | Returns _true_ if the caller is the current contract owner address of this SRC20 |
 | `symbol` | Ticker code or symbol of this SRC20 token |
 | `getTransferNonce` | Returns the next nonce expected by transfer functions. Nonce is incremented after each successful transfer |
-| `\_assetRegistry` | Address of the AssetRegistry contract which holds the off-chain properties of all assets tokenized by SRC20 tokens. |
-| `\_features` | Address of the TokenFeatures smart contract for this SRC20 token |
+| `_assetRegistry` | Address of the AssetRegistry contract which holds the off-chain properties of all assets tokenized by SRC20 tokens. |
+| `_features` | Address of the TokenFeatures smart contract for this SRC20 token |
 | `allowance` | Returns the number of tokens a spender address has been allowed to spend on behalf of and from the owner address. |
-| `\_rules` | Address of the TokenRules smart contract for this SRC20 token |
+| `_rules` | Address of the TokenRules smart contract for this SRC20 token |
 | `getTransferNonce` | Returns next nonce expected by transfer functions for a certain address |
 
 **Write Functions**
