@@ -51,13 +51,15 @@
       <td style="text-align:left">`currenciesList[address]` returns `(struct)`</td>
       <td style="text-align:left">
         <p>An array of CurrencyStats Objects. These objects have the following structure:</p>
-        <p>`struct CurrencyStats {</p>
+        <code>
+        <p>struct CurrencyStats {</p>
         <p>address erc20address;</p>
         <p>address exchangeProxy;</p>
         <p>uint256 finalExchangeRate;</p>
         <p>uint256 totalBufferedAmount;</p>
         <p>uint256 totalQualifiedAmount;</p>
-        <p>}`</p>
+        <p>}</p>
+        </code>
         <p>To obtain the first object in the array use currencyList[0]</p>
       </td>
     </tr>
