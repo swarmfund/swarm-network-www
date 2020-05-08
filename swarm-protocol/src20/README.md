@@ -18,9 +18,9 @@ For each new SRC20 token, one of each of these smart contracts is newly created.
 
 | Contract Name | Description | Example |
 | :--- | :--- | :--- |
-| \`Transfer Rules\` | Manages whitelists and greylists for holders of a specific SRC20 token. | [Link](https://ropsten.etherscan.io/address/0xad872227FBCEE4271a2F89C4c9B7df0cc86E0e71#code) |
-| \`Token Features\` | This contract defines the supported token contract features for a specific SRC20 token \(e.g. account or contract freezing, additional minting or burning tokens\) and allows to check the state of the token contract \(e.g if it is currently paused for transfers\). | [Link](https://ropsten.etherscan.io/address/0x31830850853A9fa8cb7CC7Fbf5bD5f807B8B5B8e#code) |
-| \`Roles\` | This contract defines the owner of the token contract and all assigned roles. Manages the addresses that can perform restricted actions for a specific SRC20 token as defined by the contract owner. SRC20 tokens can have four types of roles: \`Owner\`, \`Authority\`, \`Manager\` and \`Delegate\`. | [Link](https://ropsten.etherscan.io/address/0x32da71b47888a8c900761dff4fecd37c2e2da654#code) |
+| `Transfer Rules` | Manages whitelists and greylists for holders of a specific SRC20 token. | [Link](https://ropsten.etherscan.io/address/0xad872227FBCEE4271a2F89C4c9B7df0cc86E0e71#code) |
+| `Token Features` | This contract defines the supported token contract features for a specific SRC20 token \(e.g. account or contract freezing, additional minting or burning tokens\) and allows to check the state of the token contract \(e.g if it is currently paused for transfers\). | [Link](https://ropsten.etherscan.io/address/0x31830850853A9fa8cb7CC7Fbf5bD5f807B8B5B8e#code) |
+| `Roles` | This contract defines the owner of the token contract and all assigned roles. Manages the addresses that can perform restricted actions for a specific SRC20 token as defined by the contract owner. SRC20 tokens can have four types of roles: `Owner`, `Authority`, `Manager` and `Delegate`. | [Link](https://ropsten.etherscan.io/address/0x32da71b47888a8c900761dff4fecd37c2e2da654#code) |
 
 #### Smart contracts available across all SRC20
 
@@ -28,9 +28,9 @@ Each of the following \(pre-existing\) smart contracts exist across the SRC20 ne
 
 | Contract Name | Description | Example |
 | :--- | :--- | :--- |
-| \`SRC20 Registry\` | Registry of all SRC20 tokens created and 'hodler' of the associated SWM stakes | [Link](https://ropsten.etherscan.io/address/0xf37fdada55b07838cb865d9f2a9d449109eb9521#code) |
-| \`Asset Registry\` | Registry of asset data for all SRC20 tokens \(meta data, esp. NAV\) | [Link](https://ropsten.etherscan.io/address/0x54f9b26edc46bd4beaf70ab2771b7ec178241932#code) |
-| \`Minter\` | Manages the minting of SRC20 and corresponding SWM stakes of additional tokens added to an existing SRC20 | [Link](https://ropsten.etherscan.io/address/0xe0e57388e696c4db04643147070532111b21b8e8#code) |
+| `SRC20 Registry` | Registry of all SRC20 tokens created and 'hodler' of the associated SWM stakes | [Link](https://ropsten.etherscan.io/address/0xf37fdada55b07838cb865d9f2a9d449109eb9521#code) |
+| `Asset Registry` | Registry of asset data for all SRC20 tokens \(meta data, esp. NAV\) | [Link](https://ropsten.etherscan.io/address/0x54f9b26edc46bd4beaf70ab2771b7ec178241932#code) |
+| `Minter` | Manages the minting of SRC20 and corresponding SWM stakes of additional tokens added to an existing SRC20 | [Link](https://ropsten.etherscan.io/address/0xe0e57388e696c4db04643147070532111b21b8e8#code) |
 
 #### Deployment Sequence
 
