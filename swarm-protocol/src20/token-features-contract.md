@@ -20,7 +20,7 @@
 | `_enabledFeatures` | Internal function |
 | `owner` | Returns the address of the contract owner |
 | `isOwner` | Returns _true_ if the caller is the contract owner |
-| `forceTransfer` | Displays the index of this feature, for checking if enabled. Index = 1
+| `forceTransfer` | Displays the index of this feature, for checking if enabled. Index = 1 |
 | `checkTransfer` | Call to check if a transfer of SRC20 tokens between two addresses will pass under any restrictions set by this Features contract. Transfer rules need to be checked separately in the Transfer Rules contract of this SRC20 |
 | `isAccountFrozen` | Returns _true_/_false_ whether a specified account holding these SRC20 tokens is frozen, meaning it is disabled from being able to make transfers of any of this SRC20 token |
 
