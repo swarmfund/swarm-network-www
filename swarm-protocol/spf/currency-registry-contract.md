@@ -9,6 +9,13 @@
 
 #### Read Functions
 
+| Function | Description |
+| :--- | :--- |
+| `currenciesList[address]` returns `(struct)` | An array of CurrencyStats Objects. These objects have the following structure: |
+| `getAcceptedCurrencies()` returns `(address[])` | Returns an array of the accepted currencies in a Swarm Powered Fundraise |
+| `currencyIndex[address]` returns `(uint256)` | A mapping of accepted currency addresses to integers;
+To obtain the index of DAI in the contract use `currencyIndex(&#x201C;0x6B175474E89094C44Da98b954EedeAC495271d0F&#x201D;)` |
+
 <table>
   <thead>
     <tr>
