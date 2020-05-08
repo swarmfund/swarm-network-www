@@ -26,6 +26,13 @@
 
 ## Swarm Protocol
 
-* [SRC20](swarm-protocol/src20.md)
+* [SRC20](swarm-protocol/src20/README.md)
+  * [SRC20 Token Contract](swarm-protocol/src20/src20-token-contract.md)
+  * [Transfer Rules Contract](swarm-protocol/src20/transfer-rules-contract.md)
+  * [Token Features Contract](swarm-protocol/src20/token-features-contract.md)
+  * [Roles Contract](swarm-protocol/src20/roles-contract.md)
+  * [SRC20 Registry Contract](swarm-protocol/src20/src20-registry-contract.md)
+  * [Asset Registry Contract](swarm-protocol/src20/asset-registry-contract.md)
+  * [Minter Contract](swarm-protocol/src20/minter-contract.md)
 * [SwarmPoweredFundraise](swarm-protocol/spf.md)
 
