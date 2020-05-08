@@ -5,7 +5,7 @@
 * **Purpose:** Registry of all SRC20 tokens created and the associated SWM stakes
 * **Example:**  [On Ropsten](https://ropsten.etherscan.io/address/0xf37fdada55b07838cb865d9f2a9d449109eb9521#code)  
 
-### Feature Description
+## Feature Description
 
 **Glossary**
 

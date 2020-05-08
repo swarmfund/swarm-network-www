@@ -5,35 +5,31 @@
 * **Purpose:** Manages the addresses that can perform restricted actions for an SRC20 as defined by the contract owner. SRC20 tokens can have four types of roles: Owner, Authority, Manager and Delegate
 * **Example:**  [NUVO on Ropsten](https://ropsten.etherscan.io/address/0x32da71b47888a8c900761dff4fecd37c2e2da654#code)  
 
-### Feature Description
+## Feature Description
 
 **Glossary**
+
+| Item | Description |
+| :--- | :--- |
+
+
+| Owner | Owner is the owner of the \`Roles\` smart contract |
+| :--- | :--- |
+
+
+| Delegate | Address responsible for updating the KYA document, Net Asset Value, transfer restrictions and rules and perform bulk transfers that bypass whitelist and greylist. |
+| :--- | :--- |
+
+
+| Authority | Is able to authorize SRC20 token direct transfers \(MAP\) onchain or offchain. |
+| :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Item</th>
-      <th style="text-align:left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Owner</td>
-      <td style="text-align:left">Owner is the owner of the `Roles` smart contract</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Delegate</td>
-      <td style="text-align:left">Address responsible for updating the KYA document, Net Asset Value, transfer
-        restrictions and rules and perform bulk transfers that bypass whitelist
-        and greylist.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Authority</td>
-      <td style="text-align:left">Is able to authorize SRC20 token direct transfers (MAP) onchain or offchain.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Manager</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Manager</th>
+      <th style="text-align:left">
         <p>The manager is responsible for minting or burning tokens. \ \ There can
           be only one Manager per SRC20 token.</p>
         <p>Managers can perform the following action:</p>
@@ -48,15 +44,14 @@
               `<b>Manager Account</b>`</p>
           </li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>**Read Functions**
-
-| Function | Description |
+  </thead>
+  <tbody></tbody>
+</table>| Function | Description |
 | :--- | :--- |
 | `isDelegate` | Returns _true_/_false_ whether an address is a Delegate for this token contract |
-| `isAuthority` | Returns _true_/_fals_e whether an address is an Authority for this token contract |
+| `isAuthority` | Returns _true_/\_fals\_e whether an address is an Authority for this token contract |
 | `manager` | Returns the address of the Manager contract. This is normally the address of the `SRC20Registry` contract, where staking and minting is executed |
 | `owner` | Returns the address of the contract owner |
 | `isOwner` | Returns _true_ if the caller is the current owner |

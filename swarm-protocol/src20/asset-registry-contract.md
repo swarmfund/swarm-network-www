@@ -5,7 +5,7 @@
 * **Purpose:** Registry of asset data for all SRC20 tokens \(meta data, esp. NAV\)
 * **Example:**  [On Ropsten](https://ropsten.etherscan.io/address/0x54f9b26edc46bd4beaf70ab2771b7ec178241932#code)  
 
-### Feature Description
+## Feature Description
 
 **Glossary**
 

@@ -5,7 +5,7 @@
 * **Purpose:** Creates and configures a specific SRC20 token
 * **Example:**  [NUVO on Ropsten](https://ropsten.etherscan.io/token/0xAe3CB523328ae4A8E5aFa6E1b856c7F6C67a7d28)  
 
-### Feature Description
+## Feature Description
 
 **Read Functions**
 
@@ -37,7 +37,7 @@
 | :--- | :--- |
 | `transferTokenForced` | Transfers tokens from one address to another. This call only requires that `_from_ address` has sufficient tokens; other checks are skipped. Only token issuers can call this function and it requires the `ForceTransfer` feature to be enabled |
 | `approve` | Approve the `_spender address_` to spend the specified amount of tokens on behalf of the function caller’s address |
-| `bulkTransfer` | Perform multiple token transfers from the token owner's address. The tokens must already be minted. Can only be executed by a delegate \ 1. Token issuer must first specify a delegate \(owner is not a delegate by default\) to use this function \ 2. Token issuer must call `approve\(\)` function to allow delegate to spend |
+| `bulkTransfer` | Perform multiple token transfers from the token owner's address. The tokens must already be minted. Can only be executed by a delegate  1. Token issuer must first specify a delegate \(owner is not a delegate by default\) to use this function  2. Token issuer must call `approve\(\)` function to allow delegate to spend |
 | `burnAccount` | Burns an amount of tokens from a specified address. Tokens are sent to the zero address, Only token issuers can call this function |
 | `transferFrom` \[from, to, value\] | Internal function used by the Transfer Rules contract of this SRC20 to check if a transfer requires an authorization |
 | `transferToken` | Transfer token to specified address. Caller needs to provide an authorization signature obtained from MAP API, signed by an authority accepted by the token issuer. _Used by the_ `_transfer_` _function after_ `_transfer validity_` _is acquired_ |
