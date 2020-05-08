@@ -5,47 +5,43 @@
 * **Purpose:** Registers all currencies that will be accepted in a specific Swarm Powered Fundraise
 * **Example:**  TBD
 
-### Feature Description
+## Feature Description
 
-#### Read Functions
+### Read Functions
+
+| Function | Description |
+| :--- | :--- |
+
+
+| \`affiliateLinks\(address\)\` returns \`\(string\)\` | Returns the affiliate link of an affiliate address |
+| :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Function</th>
-      <th style="text-align:left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">`affiliateLinks(address)` returns `(string)`</td>
-      <td style="text-align:left">Returns the affiliate link of an affiliate address</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">`affiliates(address)` returns `(struct)`</td>
-      <td style="text-align:left">
+      <th style="text-align:left">`affiliates(address)` returns `(struct)`</th>
+      <th style="text-align:left">
         <p>Returns the Affiliate object from the affiliate address:</p>
         <p>```struct Affiliate {</p>
         <p>string affiliateLink;</p>
         <p>uint256 percentage;</p>
         <p>}```</p>
-      </td>
+      </th>
     </tr>
-    <tr>
-      <td style="text-align:left">`getAffiliate(string)` returns `(address, uint256)`</td>
-      <td style="text-align:left">Returns the address and percentage amount of an affiliate. It takes the
-        affiliate link as a parameter</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">`isOwner()` returns `(bool)`</td>
-      <td style="text-align:left">Returns true if the calling address is the contract owner</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">`owner()` returns `(address)`</td>
-      <td style="text-align:left">Returns the address of the owner of the contract</td>
-    </tr>
-  </tbody>
-</table>#### Write Functions
+  </thead>
+  <tbody></tbody>
+</table>| \`getAffiliate\(string\)\` returns \`\(address, uint256\)\` | Returns the address and percentage amount of an affiliate. It takes the affiliate link as a parameter |
+| :--- | :--- |
+
+
+| \`isOwner\(\)\` returns \`\(bool\)\` | Returns true if the calling address is the contract owner |
+| :--- | :--- |
+
+
+| \`owner\(\)\` returns \`\(address\)\` | Returns the address of the owner of the contract |
+| :--- | :--- |
+
 
 | Function | Description |
 | :--- | :--- |

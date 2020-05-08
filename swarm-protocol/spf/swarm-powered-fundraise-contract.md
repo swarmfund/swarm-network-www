@@ -5,9 +5,9 @@
 * **Purpose:** Operates the actual SwarmPoweredFundraise; finalizes via stakeToMint
 * **Example:**  TBD
 
-### Feature Description
+## Feature Description
 
-#### Read Functions
+### Read Functions
 
 <table>
   <thead>
@@ -168,7 +168,7 @@
       </td>
     </tr>
   </tbody>
-</table>#### Write Functions
+</table>\#\#\#\# Write Functions
 
 <table>
   <thead>

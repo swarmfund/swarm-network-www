@@ -5,9 +5,9 @@
 * **Purpose:** Manages whitelist and restrictions for each contributor in a Swarm Powered Fundraise
 * **Example:**  TBD
 
-### Feature Description
+## Feature Description
 
-#### Read Functions
+### Read Functions
 
 | Function | Description |
 | :--- | :--- |
@@ -16,7 +16,7 @@
 | \`isAllowed\(account\)\` returns \`\(bool\)\` | Checks if an account is on the whitelist of a Swarm Powered Fundraise and the contributor list has not reached the maximum number of contributors |
 | \`checkRestrictions\(address\)\` returns \`\(bool\)\` | Checks if an account is on the whitelist and is not above the maximum number of contributors |
 
-#### Write Functions
+### Write Functions
 
 | Function | Description |
 | :--- | :--- |

@@ -5,9 +5,9 @@
 * **Purpose:** Proxy Contract that makes ongoing calls to the different Uniswap exchanges to obtain the prices of accepted currencies used in Swarm Powered Fundraises
 * **Example:** TBD
 
-### Feature Description
+## Feature Description
 
-#### Read Functions
+### Read Functions
 
 | Function | Description |
 | :--- | :--- |
@@ -15,7 +15,7 @@
 | \`isOwner\(\)\` returns \`\(bool\)\` | Returns true if the caller is the current contract owner address of this contract |
 | \`owner\(\)\` returns \`\(address\)\` | Returns the address of the owner of this contract |
 
-#### Write Functions
+### Write Functions
 
 <table>
   <thead>

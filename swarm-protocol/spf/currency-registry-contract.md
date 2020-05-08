@@ -5,16 +5,39 @@
 * **Purpose:** Registers all currencies that will be accepted in a specific Swarm Powered Fundraise
 * **Example:** TBD
 
-### Feature Description
+## Feature Description
 
-#### Read Functions
+### Read Functions
 
-| Function | Description |
-| :--- | :--- |
-| `currenciesList[address]` returns `(struct)` | An array of CurrencyStats Objects. These objects have the following structure: |
-| `getAcceptedCurrencies()` returns `(address[])` | Returns an array of the accepted currencies in a Swarm Powered Fundraise |
-| `currencyIndex[address]` returns `(uint256)` | A mapping of accepted currency addresses to integers;
-To obtain the index of DAI in the contract use `currencyIndex(&#x201C;0x6B175474E89094C44Da98b954EedeAC495271d0F&#x201D;)` |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Function</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><code>currenciesList[address]</code> returns <code>(struct)</code>
+      </td>
+      <td style="text-align:left">An array of CurrencyStats Objects. These objects have the following structure:</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>getAcceptedCurrencies()</code> returns <code>(address[])</code>
+      </td>
+      <td style="text-align:left">Returns an array of the accepted currencies in a Swarm Powered Fundraise</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><code>currencyIndex[address]</code> returns <code>(uint256)</code>
+      </td>
+      <td style="text-align:left">
+        <p>A mapping of accepted currency addresses to integers;</p>
+        <p>To obtain the index of DAI in the contract use <code>currencyIndex(&quot;0x6B175474E89094C44Da98b954EedeAC495271d0F&quot;)</code>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table> \|
 
 <table>
   <thead>
@@ -95,7 +118,7 @@ To obtain the index of DAI in the contract use `currencyIndex(&#x201C;0x6B175474
       <td style="text-align:left">Returns the address of the contract owner</td>
     </tr>
   </tbody>
-</table>#### Write Functions
+</table>\#\#\#\# Write Functions
 
 <table>
   <thead>

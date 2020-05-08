@@ -9,51 +9,44 @@
 
 **Glossary**
 
+| Item | Description |
+| :--- | :--- |
+
+
+| Owner | Owner is the owner of the \`Roles\` smart contract |
+| :--- | :--- |
+
+
+| Delegate | Address responsible for updating the KYA document, Net Asset Value, transfer restrictions and rules and perform bulk transfers that bypass whitelist and greylist. |
+| :--- | :--- |
+
+
+| Authority | Is able to authorize SRC20 token direct transfers \(MAP\) onchain or offchain. |
+| :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Item</th>
-      <th style="text-align:left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Owner</td>
-      <td style="text-align:left">Owner is the owner of the `Roles` smart contract</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Delegate</td>
-      <td style="text-align:left">Address responsible for updating the KYA document, Net Asset Value, transfer
-        restrictions and rules and perform bulk transfers that bypass whitelist
-        and greylist.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Authority</td>
-      <td style="text-align:left">Is able to authorize SRC20 token direct transfers (MAP) onchain or offchain.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Manager</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Manager</th>
+      <th style="text-align:left">
         <p>The manager is responsible for minting or burning tokens. There can only
           one Manager per SRC20 token. Managers are proxy accounts for the owner
           of the token.</p>
-        <p></p>
         <p>Managers can perform the following action:</p>
         <ul>
           <li><em>`Renounce Management`</em> - If a manager renounces management there
             is no possible way to mint or burn SRC20 tokens anymore.</li>
-          <li><em>`Transfer Management` </em>- A manager can transfer their role to
-            a new address or to a multisig wallet.</li>
+          <li><em>`Transfer Management`</em> - A manager can transfer their role to a
+            new address or to a multisig wallet.</li>
         </ul>
         <p>Only the `Owner` of the Roles contract can call the decrease or increase
           function from the `Manager Account`</p>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>
-**Read Functions**
-
-| Function | Description |
+  </thead>
+  <tbody></tbody>
+</table>| Function | Description |
 | :--- | :--- |
 | `isDelegate` | Returns _true_/_false_ whether an address is a Delegate for this token contract |
 | `isAuthority` | Returns _true_/_false_ whether an address is an Authority for this token contract |
