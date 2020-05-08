@@ -15,13 +15,13 @@ Forums where governance actions may be discussed include, but are not limited to
 * [Reddit](https://reddit.com/r/swarm/)
 * [Issues](https://github.com/swarmfund/networkgovernance/issues) tab in Swarm's GitHub
 
-### Initiating a proposal
+## Initiating a proposal
 
 Any Member can initiate a “Governance Action Proposal” or “GAP”. The ballot proposal process is described in detail [here](ballots.md).
 
-A GAP may also be initiated through a majority vote of the Swarm Council. 
+A GAP may also be initiated through a majority vote of the Swarm Council.
 
-A GAP may also be initiated as part of the enactment and execution of a prior Governance Action. 
+A GAP may also be initiated as part of the enactment and execution of a prior Governance Action.
 
 A GAP should describe to Members how the action benefits the Swarm Network and why they should vote for it. It should also provide a detailed description of the action, any relevant supporting documentation, and may include a request for a budget.
 
@@ -34,7 +34,7 @@ There are four themes that a GAP may be categorized into:
 
 Proposal templates may be viewed on [GitHub](https://github.com/swarmfund/networkgovernance/tree/master/templates).
 
-### Requirements
+## Requirements
 
 A proposal must:
 
@@ -46,7 +46,7 @@ A proposal must:
 
 If a Governance Action requires the expenditure of Swarm Treasury funds the proposal must, in addition: articulate and establish an accountability framework that measures the performance of the Governance Action; provide an auditing procedure to account for expenditures; and provide a method for reporting the audit and performance results to the Swarm Network and the Swarm Council.
 
-### Pre-Clearance
+## Pre-Clearance
 
 A Member may petition the Swarm Council for confirmation that a GAP, if balloted, would meet the procedural and substantive requirements described above. Pre-Clearance shall be granted if the Swarm Council finds through an affirmative vote that the requirements are satisfied.
 

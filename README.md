@@ -1,4 +1,4 @@
-# Introduction
+# Home
 
 ![](.gitbook/assets/snetwork.png)
 
