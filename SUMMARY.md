@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 
+##Swarm Network
 * [Network Governance](Network-Governance/README.md)
   * [Getting started](Network-Governance/getting-started.md)
   * [The Swarm Network](Network-Governance/the-swarm-network/README.md)
@@ -21,3 +22,7 @@
     * [Voting](Network-Governance/intro/voting.md)
 * [Masternodes](Masternodes/README.md)
   * [Masternode Rewards](Masternodes/masternode-rewards.md)
+
+Swarm Protocol
+* [SRC20](SRC20/README.md)
+* [SwarmPoweredFundraise](SPF/README.md)
