@@ -37,7 +37,7 @@
       </td>
     </tr>
   </tbody>
-</table> \|
+</table> \\|
 
 <table>
   <thead>
@@ -48,19 +48,26 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><code>currenciesList[address]</code> returns <code>(struct)</code></td>
+      <td style="text-align:left"><code>currenciesList[address]</code> returns <code>(struct)</code>
+      </td>
       <td style="text-align:left">
         <p>An array of CurrencyStats Objects. These objects have the following structure:</p>
-        <code>
-        <p>struct CurrencyStats {</p>
-        <p>address erc20address;</p>
-        <p>address exchangeProxy;</p>
-        <p>uint256 finalExchangeRate;</p>
-        <p>uint256 totalBufferedAmount;</p>
-        <p>uint256 totalQualifiedAmount;</p>
-        <p>}</p>
-        </code>
-        <p>To obtain the first object in the array use <code>currencyList[0]</code></p>
+        <p><code>struct CurrencyStats {</code>
+        </p>
+        <p><code>address erc20address;</code>
+        </p>
+        <p><code>address exchangeProxy;</code>
+        </p>
+        <p><code>uint256 finalExchangeRate;</code>
+        </p>
+        <p><code>uint256 totalBufferedAmount;</code>
+        </p>
+        <p><code>uint256 totalQualifiedAmount;</code>
+        </p>
+        <p><code>}</code>
+        </p>
+        <p>To obtain the first object in the array use <code>currencyList[0]</code>
+        </p>
       </td>
     </tr>
     <tr>
@@ -120,7 +127,7 @@
       <td style="text-align:left">Returns the address of the contract owner</td>
     </tr>
   </tbody>
-</table>\#\#\#\# Write Functions
+</table>\\#\\#\\#\\# Write Functions
 
 <table>
   <thead>
