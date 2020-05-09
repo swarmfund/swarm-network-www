@@ -26,8 +26,7 @@
 | `softCapBCY()` returns `(uint256)` | The soft cap amount in base currency |
 | `hardCapBCY()` returns `(uint256)` | The hard cap amount in base currency |
 | `SRC20tokenPriceBCY()` returns `(uint256)` | The price of each SRC20 token being sold in base currency. If this is set to 0 the value will be calculated based off of tokens to mint |
-| `SRC20tokensToMint()` returns `(uint256)` | The amount of SRC20 tokens that are for sale and will be minted. It will
-        be 0 if the fundraising is based off of a token price |
+| `SRC20tokensToMint()` returns `(uint256)` | The amount of SRC20 tokens that are for sale and will be minted. It will be 0 if the fundraising is based off of a token price |
 | `fundraiseAmountBCY()` returns `(uint256)` | The amount raised in base currency |
 | `numberOfContributors()` returns `(uint256)` | The total number of unique addresses that have contributed to the fundraise |
 | `totalIssuerWithdrawalsBCY()` returns `(uint256)` | The total amount the issuer can withdraw in base currency |
@@ -56,5 +55,4 @@
 | `acceptContributor(address)` returns `(bool)` | Function that can only be called by the Contributor Restriction smart contract after a user has been whitelisted by the issuer |
 | `removeContributor(address)` returns `(bool)` | Function that can only be called by the Contributor Restriction smart contract after a user's address has been unwhitelisted by the token issuer |
 | `stakeAndMint(address, uint256)` returns `(bool)` | Allow token issuer to stake SWM tokens in order to mint SRC20 tokens. The token issuer can either use `ISOP` or stake directly if they have the required SWM. The `stakeAndMint()` function will also conclude the fundraise by internally calling the function `finishFundraise()`. When `stakeAndMint()` finalizes the fundraise, that the people whitelisted for a fundraise are automatically added to the SRC20 Transfer Rules via `bulkWhitelistAccount()`. Otherwise `stakeAndMint()` could run into problems because the holders are not able to hold the newly minted SRC20 tokens |
-| `claimTokens()` returns `(uint256)` | Allow contributors to claim their portion of SRC20 tokens after the fundraising
-        is successfully over |
+| `claimTokens()` returns `(uint256)` | Allow contributors to claim their portion of SRC20 tokens after the fundraising is successfully over |
