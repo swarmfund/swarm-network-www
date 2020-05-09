@@ -1,7 +1,7 @@
 # Swarm Powered Fundraise Contract
 
 * **Smart Contract:** specific to a Swarm Powered Fundraise for a specific SRC20
-* **Created:**  Step X \(final step\) in the deployment of a Swarm Powered Fundraise; this contract references all other previously deployed contracts related to this fundraise 
+* **Created:**  Step X (final step\) in the deployment of a Swarm Powered Fundraise; this contract references all other previously deployed contracts related to this fundraise 
 * **Purpose:** Operates the actual SwarmPoweredFundraise; finalizes via stakeToMint
 * **Example:**  TBD
 
