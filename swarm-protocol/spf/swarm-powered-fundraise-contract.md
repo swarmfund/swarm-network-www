@@ -21,8 +21,7 @@
 | `minter()` returns `(address)` | The contract that is responsible for minting the security tokens after the stake has been made |
 | `affiliateManager()` returns `(address)` | The contract address of the Affiliate Manager contract which is responsible for managing affiliate addresses, links and commissions |
 | `contributorRestrictions()` returns `(address)` | The contract address of the Contributor Restrictions contract which is responsible for handling contributor restrictions |
-| `currencyRegistry()` returns `(address)` | The contract address of the Currency Registry which is responsible for
-        managing accepted currencies in the fundraise |
+| `currencyRegistry()` returns `(address)` | The contract address of the Currency Registry which is responsible for managing accepted currencies in the fundraise |
 | `offchainContributionsAllowed()` returns `(bool)` | Returns true if off-chain contributions are allowed. If off chain contributions are allowed the token manager can manually input contributions into the contract |
 | `softCapBCY()` returns `(uint256)` | The soft cap amount in base currency |
 | `hardCapBCY()` returns `(uint256)` | The hard cap amount in base currency |
@@ -47,6 +46,7 @@
 ### Write Functions
 
 | Function | Description |
+| :--- | :--- |
 | `setupContract(uint256, uint256, address, address, bool)` | This function finishes setting up the contract once it has been deployed. The parameters are the following: 1/ Minimum contribution amount accepted in base currency; 2/ Maximum contribution amount accepted in base currency; 3/ Affiliate Manager contract address; 4/ Contributor Restrictions contract address; 5/ A boolean that sets if the contributions are locked |
 | `cancelFundraise() returns (bool)` | It cancels the fundraise; this function can only be called by the contract owner (token issuer) |
 | `getContributionsBCY(address, bool)` returns `(uint256)` | Returns the contributor&#x2019;s sum of contributions in base currency; the contributor&#x2019;s address is the first parameter and the second parameter is a boolean for qualified contributions (<em>true</em>) or pending contributions (<em>false</em>) |
