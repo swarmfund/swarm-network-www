@@ -19,6 +19,7 @@
 
 | Function | Description |
 | :--- | :--- |
- | `addOrUpdateExchange(address, address)` | Adds an exchange pair between two currencies to the proxy. The first parameter is the token address and the second parameter is the Uniswap exchange address; e.g. to set up DAI stable coin the following should be called `addOrUpdateExchange("0x6B175474E89094C44Da98b954EedeAC495271d0F&#x201D;,&#x201D;0x6B175474E89094C44Da98b954EedeAC495271d0F")` |
+| `addOrUpdateExchange(address, address)` | Adds an exchange pair between two currencies to the proxy. The first parameter is the token address and the second parameter is the Uniswap exchange address; e.g. to set up DAI stable coin the following should be called `addOrUpdateExchange("0x6B175474E89094C44Da98b954EedeAC495271d0F&#x201D;,&#x201D;0x6B175474E89094C44Da98b954EedeAC495271d0F")` |
 | `renounceOwnership()` | Contract owner can renounce ownership of this contract. |
 | `transferOwnership()` | An owner can transfer their role to a new address or to a multisig wallet |
+
