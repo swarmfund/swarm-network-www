@@ -11,8 +11,8 @@
 
 | Item | Description |
 | :--- | :--- |
-| Whitelist | List of addresses able to hold and transfer the specific SRC20 token referring to this Transfer Rules contract without requiring approval by the token issuer or an authority |
-| Greylist | List of addresses able to hold and transfer SRC20 token referring to this Transfer Rules contract only with approval by the token issuer or an authority. If a transfer of tokens is attempted where at least one of the addresses is on the greylist, a request for approval is created in the Transfer Rules contract of the corresponding SRC20, for the token issuer to approve/reject. |
+| Whitelist | List of addresses able to hold and transfer the specific SRC20 token referring to this `Transfer Rules` contract without requiring approval by the token issuer or an authority |
+| Greylist | List of addresses able to hold and transfer SRC20 token referring to this `Transfer Rules` contract only with approval by the token issuer or an authority. If a transfer of tokens is attempted where at least one of the addresses is on the greylist, a request for approval is created in the `Transfer Rules` contract of the corresponding SRC20, for the token issuer to approve/reject. |
 
 **Read Functions**
 
