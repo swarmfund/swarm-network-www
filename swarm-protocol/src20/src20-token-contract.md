@@ -62,3 +62,4 @@
 | `RestrictionsAndRulesUpdated()` | Event created by contract when the restrictions and rules contracts is updated |
 | `Transfer()` | Event created by contract when a transfer occurs for this SRC20 respecting the `Transfer Rules` \(white/greylists\) |
 | `Approval()` | Event created by contract when when a spender has received approval to spend on behalf of another holder of SRC20 tokens |
+

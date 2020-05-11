@@ -1,4 +1,4 @@
-# Token Features Contract
+# Featured Contract
 
 * **Smart Contract:** SRC20 specific
 * **Created:** Step 2 in SRC20 deployment \(see [Swarm Tokenization App](https://swarm.app/)\)
