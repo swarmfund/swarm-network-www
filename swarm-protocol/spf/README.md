@@ -12,7 +12,7 @@ Like SRC20, the SFP stack is open source, so the Swarm network welcomes token is
 
 The following four contracts are created in relation to a specific SRC20 token and interact with one another and other global SRC20 smart contracts.
 
-![](../../.gitbook/assets/spf-overview.png)
+![](../../.gitbook/assets/spf-overview%20%281%29.png)
 
 ### Smart contracts specific to each SwarmPoweredFundraise
 

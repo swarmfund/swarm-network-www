@@ -55,6 +55,6 @@
 | `OwnershipTransferred` | Internal function called by contract to set initial ownership and when ownership is transferred |
 | `ManagementTransferred` | Called by contract to set initial manager and when manager address is transferred |
 | `RestrictionsAndRulesUpdated` | Internal function to update the restrictions and rules contracts. |
-| `Transfer` | Main transfer call |
+| `Transfer` | Main transfer call; anyone with SRC20 can call this function. It respects Transfer Rules \(white/greylists\) |
 | `Approval` | Internal function used by the contract to check if spender has approval to spend on behalf of the contract owner |
 

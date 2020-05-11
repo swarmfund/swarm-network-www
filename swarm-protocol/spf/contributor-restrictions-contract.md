@@ -24,3 +24,4 @@
 | `unWhitelistAccount(address)` | Removes an address from the whitelist of a Swarm Powered Fundraise and removes any qualified contributions by the address |
 | `bulkWhitelistAccount(address[])` | Whitelists an array of addresses for a Swarm Powered Fundraise |
 | `bulkUnWhitelistAccount(address[])` | Removes an array of addresses from the whitelist of a Swarm Powered Fundraise |
+
