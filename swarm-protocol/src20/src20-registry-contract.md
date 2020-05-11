@@ -11,7 +11,7 @@
 
 | Item | Description |
 | :--- | :--- |
-| (SWM) Stake | On Swarm token issuers are required to stake an amount of SWM token to trigger the minting and distribution of SRC20 tokens; the required stake amounts follow a [staking rate card](https://docs.swarm.fund/SWM_Issuance_Staking_Rate_Card.png) which has been adopted as a network policy by the Swarm Network |
+| \(SWM\) Stake | On Swarm token issuers are required to stake an amount of SWM token to trigger the minting and distribution of SRC20 tokens; the required stake amounts follow a [staking rate card](https://docs.swarm.fund/SWM_Issuance_Staking_Rate_Card.png) which has been adopted as a network policy by the Swarm Network |
 
 **Read Functions**
 
@@ -22,25 +22,26 @@
 | `getStake()` returns `(uint256)` | Returns the amount of SWM staked for a specific SRC20 |
 | `owner()` returns `(address)` | Returns the address of the contract owner |
 | `isOwner()` returns `(bool)` | Returns _true_ if the caller is the contract owner |
-| `calcTokens()` | src20 (address), swmValue (uint256) returns uint256 |
+| `calcTokens()` | src20 \(address\), swmValue \(uint256\) returns uint256 |
 | `getMinter()` returns `(address)` | returns address |
-| `getTokenOwner()` returns `(address)` | Returns the address of the owner (and staker) of a specific SRC20 |
+| `getTokenOwner()` returns `(address)` | Returns the address of the owner \(and staker\) of a specific SRC20 |
 
 **Write Functions**
 
 | Function | Description |
 | :--- | :--- |
-| `remove()` returns `(address)` | token (address) |
-| `addFactory()` returns `account(address)` | account (address) |
-| `removeMinter()` returns `minter(address)` | minter (address) |
-| `removeFactory()` returns `account(address)` | account (address) |
-| `renounceManagement()` returns `src20(address)` | src20 (address) |
-| `getSrc20toSwmRatio()` returns `src20(address)` | src20 (address) |
-| `increaseSupply()` | src20 (address), swmAccount(address), srcValue(unit256) |
+| `remove()` returns `(address)` | token \(address\) |
+| `addFactory()` returns `account(address)` | account \(address\) |
+| `removeMinter()` returns `minter(address)` | minter \(address\) |
+| `removeFactory()` returns `account(address)` | account \(address\) |
+| `renounceManagement()` returns `src20(address)` | src20 \(address\) |
+| `getSrc20toSwmRatio()` returns `src20(address)` | src20 \(address\) |
+| `increaseSupply()` | src20 \(address\), swmAccount\(address\), srcValue\(unit256\) |
 | `renounceOwnership()` | Contract owner can renounce ownership of the contract |
-| `transferManagement()` | src20 (address), newManager(address) |
-| `addMinter()` | minter (address) |
-| `mintSupply()` | src20 (address), swmAccount(address), swmValue(unit256), srcValue(unit256) |
-| `put()` | token (address), roles (address), tokenOwner (address), minter (address) |
-| `decreaseSupply()` | src20 (address), swmAccount(address), srcValue(unit256) |
+| `transferManagement()` | src20 \(address\), newManager\(address\) |
+| `addMinter()` | minter \(address\) |
+| `mintSupply()` | src20 \(address\), swmAccount\(address\), swmValue\(unit256\), srcValue\(unit256\) |
+| `put()` | token \(address\), roles \(address\), tokenOwner \(address\), minter \(address\) |
+| `decreaseSupply()` | src20 \(address\), swmAccount\(address\), srcValue\(unit256\) |
 | `transferOwnership()` | Transfers ownership of this contract to another address. Can only be called by the contract owner. |
+
