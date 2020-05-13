@@ -19,7 +19,7 @@
 | Function | Description |
 | :--- | :--- |
 | `getNetAssetValueUSD()` | Returns the currently registered NAV for a specific SRC20 |
-| `_src20Factory()` returns `(address)` | \(...\) |
+| `_src20Factory()` returns `(address)` | Returns the address of the `SRC20 Factory` contract |
 | `owner()` returns `(address)` | Returns the address of the SRC20 Factory contract |
 | `isOwner()` returns `(bool)` | Returns _true_ if the caller is the contract owner |
 | `assetList()` returns `kyaHash(bytes32), kyaUrl(string), netAssetValueUSD(uint256)` | Returns all KYA data (NAV, KYA hash, KYA URL) registered in this contract for a specific SRC20 |
