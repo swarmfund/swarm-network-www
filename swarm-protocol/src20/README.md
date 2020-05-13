@@ -10,7 +10,7 @@ As the SRC20 is open source, it allows token issuers and service providers alike
 
 The following four contracts are created in relation to a specific SRC20 token and interact with one another and other global SRC20 smart contracts.
 
-![](../../.gitbook/assets/scr20-overview%20%281%29.png)
+![](../../.gitbook/assets/src20-overview.png)
 
 ### Smart contracts specific to each SRC20
 
