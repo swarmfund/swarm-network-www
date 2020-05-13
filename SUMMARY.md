@@ -34,6 +34,7 @@
   * [SRC20 Registry Contract](swarm-protocol/src20/src20-registry-contract.md)
   * [Asset Registry Contract](swarm-protocol/src20/asset-registry-contract.md)
   * [Minter Contract](swarm-protocol/src20/minter-contract.md)
+  * [SRC20Factory Contract](swarm-protocol/src20/src20factory-contract.md)
 * [SwarmPoweredFundraise](swarm-protocol/spf/README.md)
   * [Uniswap Proxy Contract](swarm-protocol/spf/uniswap-proxy-contract.md)
   * [Currency Registry Contract](swarm-protocol/spf/currency-registry-contract.md)
