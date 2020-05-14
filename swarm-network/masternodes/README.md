@@ -9,6 +9,10 @@ Some key aspects about Masternodes:
 * Masternodes are required to run the latest release software version in order to receive rewards
 * The Swarm Network has set aside 10 million SWM tokens as rewards for Masternodes maintaining the network
 
+### Live Nodes
+
+![](../../.gitbook/assets/mn-dashboard.png)
+
 Find out more at [swarmmasternodes.com](https://www.swarmmasternodes.com/) or go to the [setup guide ](https://swm.by/howtomasternode)for instructions how to run a Swarm Masternode. There are also useful video guides such as these:
 
 {% embed url="https://www.youtube.com/watch?v=6bBmg\_FZGEk" %}
