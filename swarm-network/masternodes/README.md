@@ -52,6 +52,8 @@ SWARM Masternodes are a way for anyone to provide services to the network and to
 
 ## Live Nodes
 
+[![](../.gitbook/assets/idex02.png)](https://idex.market/eth/swm)
+
 [![](../.gitbook/assets/mn-dashboard.png)](https://masternodes.swarmnetwork.org/#/)
 
 ## **How to run a masternode**
