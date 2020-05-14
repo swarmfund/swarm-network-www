@@ -18,3 +18,4 @@
 | Function | Description |
 | :--- | :--- |
 | `create()` | Creates new SRC20 contract using all the named parameters. Expects token properties and desired capabilities of the token. Only SRC20Factory owner can call this function. Emits SRC20Created event with address of new token. |
+

@@ -20,5 +20,7 @@
 
 | Function | Description |
 | :--- | :--- |
-| `stakeAndMint()` | 
-Calling this function withdraws the previously authorized number of SWM tokens required for staking from the caller’s address, and then mints `numSRC20Tokens` of `src20` tokens in the caller’s address.; returns __True__ on success |
+| `stakeAndMint()` |  |
+
+Calling this function withdraws the previously authorized number of SWM tokens required for staking from the caller’s address, and then mints `numSRC20Tokens` of `src20` tokens in the caller’s address.; returns **True** on success \|
+
