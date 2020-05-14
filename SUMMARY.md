@@ -45,7 +45,8 @@
 
 ## Keep up
 
-* [Discourse](https://community.swarm.fund/)
+* [Blog](https://medium.com/swarmfund)
 * [Twitter](https://twitter.com/Swarm)
+* [Discourse](https://community.swarm.fund/)
 * [Telegram](http://swm.by/Telegram)
 
