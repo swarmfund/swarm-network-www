@@ -25,8 +25,9 @@ SWARM Masternodes are a way for anyone to provide services to the network and to
         <img src="../../.gitbook/assets/mn-network-governance.png" alt/>
       </td>
       <td style="text-align:left">
-        <p><b>Network Services &amp; Governance:</b> Run essential functions and help
-          govern the decentralized SWARM Network.</p>
+        <p><b>NETWORK SERVICES &amp; GOVERNANCE</b>
+        </p>
+        <p>Run essential functions and help govern the decentralized SWARM Network.</p>
         <ul>
           <li>Host SWARM core software and Market Access Protocol (MAP)</li>
           <li>Validate investor qualifications and token transfer restrictions</li>
@@ -36,7 +37,42 @@ SWARM Masternodes are a way for anyone to provide services to the network and to
       </td>
     </tr>
     <tr>
+<<<<<<< HEAD
       <td style="text-align:center">
+=======
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/mn-staking-rewards.png" alt/>
+      </td>
+      <td style="text-align:left">
+        <p><b>STAKING REWARDS</b>
+        </p>
+        <p>Earn SWM for providing network services.</p>
+        <p>* 10 million initial SWM token reward pool (established 1 September 2018)</p>
+        <p>* 2.5M initial annual pool, reducing by 25% each year, for 100 years</p>
+        <p>* Earned continuously, distributed monthly to active nodes</p>
+      </td>
+    </tr>
+  </tbody>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <img src="../../.gitbook/assets/mn-network-governance.png" alt/>
+      </th>
+      <th style="text-align:left">
+        <p><b>Network Services &amp; Governance:</b> Run essential functions and help
+          govern the decentralized SWARM Network.</p>
+        <p>Host SWARM core software and Market Access Protocol (MAP)</p>
+        <p>Validate investor qualifications and token transfer restrictions</p>
+        <p>Participate in governing the network with stake-weighted voting on community
+          ballots</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+>>>>>>> 3793b79b64441358963ea02458301f3cc254dd55
         <img src="../../.gitbook/assets/mn-staking-rewards.png" alt/>
       </td>
       <td style="text-align:left">
