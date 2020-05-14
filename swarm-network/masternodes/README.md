@@ -26,10 +26,6 @@ Earn rewards for your work.
       </td>
       </th>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
       <td style="text-align:center"><img src="../../.gitbook/assets/mn-staking-rewards.png"></td>
       <td style="text-align:left">
@@ -45,7 +41,6 @@ Earn rewards for your work.
       </th>
     </tr>
   </tbody>
-</table>
 
 ## **Why run a masternode?**
 
