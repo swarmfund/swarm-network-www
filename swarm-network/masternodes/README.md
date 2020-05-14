@@ -8,17 +8,18 @@ description: >-
 
 ![](../../.gitbook/assets/mn.png)
 
+|  |  |
+| :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><img src="../.gitbook/assets/mn-network-governance.png"></td>
-      <td style="text-align:left">
+      <th style="text-align:left">
+        <img src="https://github.com/swarmfund/swarm-network-www/tree/4a0906e3c623850b8bc6ba56b81b10df14b79289/swarm-network/.gitbook/assets/mn-network-governance.png"
+        alt/>
+      </th>
+      <th style="text-align:left">
         <p><b>Network Services &amp; Governance</b>
         </p>
         <p>Run essential functions and help govern the decentralized SWARM Network</p>
@@ -28,11 +29,18 @@ description: >-
           <li>Participate in governing the network with stake-weighted voting on community
             ballots</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left"><img src="../.gitbook/assets/mn-staking-rewards.png"></td>
-      <td style="text-align:left">
+      <th style="text-align:left">
+        <img src="https://github.com/swarmfund/swarm-network-www/tree/4a0906e3c623850b8bc6ba56b81b10df14b79289/swarm-network/.gitbook/assets/mn-staking-rewards.png"
+        alt/>
+      </th>
+      <th style="text-align:left">
         <p><b>Staking Rewards</b>
         </p>
         <p>Earn SWM for providing network services</p>
@@ -41,20 +49,21 @@ description: >-
           <li>2.5M initial annual pool, reducing by 25% each year, for 100 years</li>
           <li>Earned continuously, distributed monthly to active nodes.</li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>### **Why run a masternode?**
+  </thead>
+  <tbody></tbody>
+</table>| Italic | Block letters |
+| :---: | :---: |
+| ![](https://github.com/swarmfund/swarm-network-www/tree/4a0906e3c623850b8bc6ba56b81b10df14b79289/swarm-network/.gitbook/assets/mn-staking-rewards.png) | ![](https://github.com/swarmfund/swarm-network-www/tree/4a0906e3c623850b8bc6ba56b81b10df14b79289/swarm-network/.gitbook/assets/mn-staking-rewards.png) |
 
-| Italic             |  Block letters |
-:-------------------------:|:-------------------------:
-![](../.gitbook/assets/mn-staking-rewards.png)  |  ![](../.gitbook/assets/mn-staking-rewards.png)
+![](../../.gitbook/assets/mn-staking-rewards.png)
 
-(../.gitbook/assets/mn-staking-rewards.png)
+![](../../.gitbook/assets/mn-network-governance.png)
 
 SWARM Masternodes are a way for anyone to provide services to the network and to earn rewards for doing so. Help us build the decentralized financial platform of tomorrow.
 
-### **How to run a masternode**
+## **How to run a masternode**
 
 1. **STAKE:** Stake 50,000 SWM tokens in an ERC20 wallet. One masternode can be staked per wallet. Use multiple wallets for multiple masternodes.
 2. **LAUNCH:** Check out the complete [setup guide](https://github.com/swarmfund/swarm-masternode) on GitHub. Follow the instructions and spin up your masternode.
@@ -71,21 +80,13 @@ Some key aspects about Masternodes:
 * Masternodes are required to run the latest release software version in order to receive rewards
 * The Swarm Network has set aside 10 million SWM tokens as rewards for Masternodes maintaining the network
 
-### Live Nodes
+## Live Nodes
 
 ![](../../.gitbook/assets/mn-dashboard.png)
 
 Find out more at [swarmmasternodes.com](https://www.swarmmasternodes.com/) or go to the [setup guide ](https://swm.by/howtomasternode)for instructions how to run a Swarm Masternode. There are also useful video guides such as these:
 
-{% embed url="https://www.youtube.com/watch?v=6bBmg\_FZGEk" %}
+{% embed url="https://www.youtube.com/watch?v=6bBmg\_FZGEk" caption="" %}
 
-
-
-{% embed url="https://www.youtube.com/watch?v=HMPaNLswJlU" %}
-
-
-
-
-
-
+{% embed url="https://www.youtube.com/watch?v=HMPaNLswJlU" caption="" %}
 
