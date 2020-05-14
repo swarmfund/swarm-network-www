@@ -59,8 +59,6 @@ SWARM Masternodes are a way for anyone to provide services to the network and to
 
 [![](../../.gitbook/assets/mn-dashboard.png)](https://masternodes.swarmnetwork.org/#/)
 
-![](../../.gitbook/assets/mn-dashboard.png)
-
 ## **How to run a masternode**
 
 1. **STAKE:** Stake 50,000 SWM tokens in an ERC20 wallet. One masternode can be staked per wallet. Use multiple wallets for multiple masternodes.
