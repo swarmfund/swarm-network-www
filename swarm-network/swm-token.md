@@ -27,3 +27,4 @@ description: 'The SWM token is the essential element, which powers the SWARM eco
 
 ![](../.gitbook/assets/idex02.png)
 
+[<img src="../.gitbook/assets/idex02.png">](https://idex.market/eth/swm)
