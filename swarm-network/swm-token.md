@@ -4,11 +4,13 @@ description: 'The SWM token is the essential element, which powers the SWARM eco
 
 # SWM token
 
+The SWM token is the **essential element**, which powers the SWARM ecosystem
+
 ![](../.gitbook/assets/swmcoin%20%281%29.png)
 
 ## SWM Utility
 
-**MASTERNODE STAKE: Help Build the Network** \_\_- Masternode operators stake SWM, committing to building and maintaining decentralized infrastructure for security tokens. Operators earn rewards for running the SWARM core software and for validating transactions. [Learn more here.](https://www.swarmmasternodes.com/)
+**MASTERNODE STAKE: Help Build the Network** - Masternode operators stake SWM, committing to building and maintaining decentralized infrastructure for security tokens. Operators earn rewards for running the SWARM core software and for validating transactions. [Learn more here.](https://www.swarmmasternodes.com/)
 
 **ISSUANCE STAKE: Tokenization is Free -** Token issuers stake SWM after a successful STO in order to trigger the release of raised funds, to mint security tokens, and to access services provided by the SWARM network. [Staked amounts](https://www.swarm.fund/launch-a-token/#3) remain in the custody of token issuers and are released at the end of the life of the investment.
 
@@ -16,13 +18,14 @@ description: 'The SWM token is the essential element, which powers the SWARM eco
 
 ## Metrics
 
-| Metric |  |
+|  |  |
 | :--- | :--- |
-| Blockchain | Ethereum |
-| Total Supply | 100,000,000 SWM |
-| Total Masternode Rewards | 10,000,000 SWM |
-| Token Tracker | [On Etherscan](https://etherscan.io/address/0x3505f494c3f0fed0b594e01fa41dd3967645ca39) |
+| **Blockchain** | Ethereum |
+| **Total Supply** | 100,000,000 SWM |
+| **Total Masternode Rewards** | 10,000,000 SWM |
+| **Token contract** | \*\*\*\*[Token Tracker](https://etherscan.io/address/0x3505f494c3f0fed0b594e01fa41dd3967645ca39) |
 
 ## Get SWM
 
 [![](../.gitbook/assets/idex02.png)](https://idex.market/eth/swm) [![](../.gitbook/assets/uniswap.png)](https://swm.by/uniswap) [![](../.gitbook/assets/bitfinex.png)](https://www.bitfinex.com/SAN/swarm-fund) [![](../.gitbook/assets/hitbtc.png)](https://hitbtc.com/exchange/SWM-to-BTC)
+

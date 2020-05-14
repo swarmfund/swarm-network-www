@@ -43,3 +43,9 @@
   * [Swarm Powered Fundraise Contract](swarm-protocol/spf/swarm-powered-fundraise-contract.md)
   * [Contributor Restrictions Contract](swarm-protocol/spf/contributor-restrictions-contract.md)
 
+## Keep up
+
+* [Discourse](https://community.swarm.fund/)
+* [Twitter](https://twitter.com/Swarm)
+* [Telegram](http://swm.by/Telegram)
+
