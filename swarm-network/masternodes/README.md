@@ -57,9 +57,9 @@ description: >-
 | :---: | :---: |
 | ![](https://github.com/swarmfund/swarm-network-www/tree/4a0906e3c623850b8bc6ba56b81b10df14b79289/swarm-network/.gitbook/assets/mn-staking-rewards.png) | ![](https://github.com/swarmfund/swarm-network-www/tree/4a0906e3c623850b8bc6ba56b81b10df14b79289/swarm-network/.gitbook/assets/mn-staking-rewards.png) |
 
-![](../../.gitbook/assets/mn-staking-rewards.png)
-
-![](../../.gitbook/assets/mn-network-governance.png)
+| Italic | Block letters |
+| :---: | :---: |
+| ![](../../.gitbook/assets/mn-staking-rewards.png) | ![](../../.gitbook/assets/mn-network-governance.png) |
 
 SWARM Masternodes are a way for anyone to provide services to the network and to earn rewards for doing so. Help us build the decentralized financial platform of tomorrow.
 
