@@ -1,3 +1,7 @@
+---
+description: '- WORK IN PROGRESS -'
+---
+
 # Swarm Powered Fundraise Contract
 
 * **Smart Contract:** specific to a Swarm Powered Fundraise for a specific SRC20

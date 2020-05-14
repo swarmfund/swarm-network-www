@@ -11,14 +11,14 @@ SWARM Masternodes are a way for anyone to provide services to the network and to
 <table>
   <thead>
     <tr>
-      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
       <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/mn-network-governance.png" alt/>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/mn-network-governance (1).png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>NETWORK SERVICES &amp; GOVERNANCE</b>
@@ -33,8 +33,8 @@ SWARM Masternodes are a way for anyone to provide services to the network and to
       </td>
     </tr>
     <tr>
-      <td style="text-align:center">
-         <img src="../../.gitbook/assets/mn-staking-rewards.png" alt/>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/mn-staking-rewards (1).png" alt/>
       </td>
       <td style="text-align:left">
         <p><b>STAKING REWARDS</b>
@@ -48,9 +48,7 @@ SWARM Masternodes are a way for anyone to provide services to the network and to
       </td>
     </tr>
   </tbody>
-</table>
-
-## Live Nodes
+</table>## Live Nodes
 
 [![](../../.gitbook/assets/mn-dashboard.png)](https://masternodes.swarmnetwork.org/#/)
 

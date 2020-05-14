@@ -1,3 +1,7 @@
+---
+description: '- WORK IN PROGRESS -'
+---
+
 # Currency Registry Contract
 
 * **Smart Contract:** specific to a Swarm Powered Fundraise for a specific SRC20

@@ -1,3 +1,7 @@
+---
+description: '- WORK IN PROGRESS -'
+---
+
 # Affiliate Manager Contract
 
 * **Smart Contract:** specific to a Swarm Powered Fundraise for a specific SRC20

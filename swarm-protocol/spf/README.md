@@ -1,3 +1,7 @@
+---
+description: '- WORK IN PROGRESS -'
+---
+
 # SwarmPoweredFundraise
 
 ## Introduction
