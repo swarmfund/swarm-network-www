@@ -4,10 +4,6 @@ Earn rewards for your work.
   
 ![](../../.gitbook/assets/mn.png)
 
-|  |  |
-| :--- | :--- |
-
-
 <table>
   <thead>
     <tr>
