@@ -2,7 +2,7 @@
 
 Help us build decentralized financial infrastructure. Earn rewards for your work.
 
-![](../../.gitbook/assets/mn.png)
+<center>![](../../.gitbook/assets/mn.png)</center>
 
 ## **Why run a masternode?**
 
