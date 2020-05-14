@@ -21,8 +21,9 @@ description: >-
         <img src="../../.gitbook/assets/mn-network-governance.png" alt/>
       </td>
       <td style="text-align:left">
-        <p><b>Network Services &amp; Governance:</b> Run essential functions and help
-          govern the decentralized SWARM Network.</p>
+        <p><b>NETWORK SERVICES &amp; GOVERNANCE</b>
+        </p>
+        <p>Run essential functions and help govern the decentralized SWARM Network.</p>
         <ul>
           <li>Host SWARM core software and Market Access Protocol (MAP)</li>
           <li>Validate investor qualifications and token transfer restrictions</li>
@@ -36,7 +37,9 @@ description: >-
         <img src="../../.gitbook/assets/mn-staking-rewards.png" alt/>
       </td>
       <td style="text-align:left">
-        <p><b>Staking Rewards:</b> Earn SWM for providing network services.</p>
+        <p><b>STAKING REWARDS</b>
+        </p>
+        <p>Earn SWM for providing network services.</p>
         <p>* 10 million initial SWM token reward pool (established 1 September 2018)</p>
         <p>* 2.5M initial annual pool, reducing by 25% each year, for 100 years</p>
         <p>* Earned continuously, distributed monthly to active nodes</p>
