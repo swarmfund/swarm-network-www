@@ -8,14 +8,42 @@ description: >-
 
 ![](../../.gitbook/assets/mn.png)
 
-|  |  |
-| :---: | :---: |
-| ![](../../.gitbook/assets/mn-network-governance.png) | Network Services & Governance: Run essential functions and help govern the decentralized SWARM Network. Host SWARM core software and Market Access Protocol (MAP). Validate investor qualifications and token transfer restrictions. Participate in governing the network with stake-weighted voting on community ballots |
-| ![](../../.gitbook/assets/mn-staking-rewards.png) | Network Services & Governance: Run essential functions and help govern the decentralized SWARM Network. Host SWARM core software and Market Access Protocol (MAP). Validate investor qualifications and token transfer restrictions. Participate in governing the network with stake-weighted voting on community ballots |
-
-
-
 <table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:center"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/mn-network-governance.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <p><b>Network Services &amp; Governance: </b>Run essential functions and
+          help govern the decentralized SWARM Network.</p>
+        <p>Host SWARM core software and Market Access Protocol (MAP)</p>
+        <p>Validate investor qualifications and token transfer restrictions</p>
+        <p>Participate in governing the network with stake-weighted voting on community
+          ballots</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/mn-staking-rewards.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <p><b>Network Services &amp; Governance:</b> Run essential functions and help
+          govern the decentralized SWARM Network.</p>
+        <p>Host SWARM core software and Market Access Protocol (MAP).</p>
+        <p>Validate investor qualifications and token transfer restrictions.</p>
+        <p>Participate in governing the network with stake-weighted voting on community
+          ballots</p>
+      </td>
+    </tr>
+  </tbody>
+</table><table>
   <thead>
     <tr>
       <th style="text-align:left">
@@ -57,10 +85,6 @@ description: >-
   </thead>
   <tbody></tbody>
 </table>| Italic | Block letters |
-| :---: | :---: |
-| ![](https://github.com/swarmfund/swarm-network-www/tree/4a0906e3c623850b8bc6ba56b81b10df14b79289/swarm-network/.gitbook/assets/mn-staking-rewards.png) | ![](https://github.com/swarmfund/swarm-network-www/tree/4a0906e3c623850b8bc6ba56b81b10df14b79289/swarm-network/.gitbook/assets/mn-staking-rewards.png) |
-
-| Italic | Block letters |
 | :---: | :---: |
 | ![](../../.gitbook/assets/mn-staking-rewards.png) | ![](../../.gitbook/assets/mn-network-governance.png) |
 
