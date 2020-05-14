@@ -25,13 +25,4 @@ description: 'The SWM token is the essential element, which powers the SWARM eco
 
 ## Get SWM
 
-![](../.gitbook/assets/idex02.png)
-
-[![](../.gitbook/assets/idex02.png)](https://idex.market/eth/swm)
-
-![](../.gitbook/assets/bitfinex.png)
-
-![](../.gitbook/assets/uniswap.png)
-
-![](../.gitbook/assets/hitbtc.png)
-
+[![](../.gitbook/assets/idex02.png)](https://idex.market/eth/swm) [![](../.gitbook/assets/uniswap.png)](https://swm.by/uniswap) [![](../.gitbook/assets/bitfinex.png)](https://www.bitfinex.com/SAN/swarm-fund) [![](../.gitbook/assets/hitbtc.png)](https://hitbtc.com/exchange/SWM-to-BTC)
