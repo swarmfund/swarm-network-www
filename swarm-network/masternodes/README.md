@@ -9,7 +9,10 @@ description: >-
 ![](../../.gitbook/assets/mn.png)
 
 |  |  |
-| :--- | :--- |
+| :---: | :---: |
+| ![](https://github.com/swarmfund/swarm-network-www/tree/4a0906e3c623850b8bc6ba56b81b10df14b79289/swarm-network/.gitbook/assets/mn-staking-rewards.png) | Network Services & Governance: Run essential functions and help govern the decentralized SWARM Network. Host SWARM core software and Market Access Protocol (MAP). Validate investor qualifications and token transfer restrictions. Participate in governing the network with stake-weighted voting on community ballots |
+| ![](https://github.com/swarmfund/swarm-network-www/tree/4a0906e3c623850b8bc6ba56b81b10df14b79289/swarm-network/.gitbook/assets/mn-staking-rewards.png) | Network Services & Governance: Run essential functions and help govern the decentralized SWARM Network. Host SWARM core software and Market Access Protocol (MAP). Validate investor qualifications and token transfer restrictions. Participate in governing the network with stake-weighted voting on community ballots |
+
 
 
 <table>
