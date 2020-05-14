@@ -8,7 +8,7 @@ description: 'The SWM token is the essential element, which powers the SWARM eco
 
 ## SWM Utility
 
-**MASTERNODE STAKE: Help Build the Network** __- Masternode operators stake SWM, committing to building and maintaining decentralized infrastructure for security tokens. Operators earn rewards for running the SWARM core software and for validating transactions. [Learn more here.](https://www.swarmmasternodes.com/)
+**MASTERNODE STAKE: Help Build the Network** \_\_- Masternode operators stake SWM, committing to building and maintaining decentralized infrastructure for security tokens. Operators earn rewards for running the SWARM core software and for validating transactions. [Learn more here.](https://www.swarmmasternodes.com/)
 
 **ISSUANCE STAKE: Tokenization is Free -** Token issuers stake SWM after a successful STO in order to trigger the release of raised funds, to mint security tokens, and to access services provided by the SWARM network. [Staked amounts](https://www.swarm.fund/launch-a-token/#3) remain in the custody of token issuers and are released at the end of the life of the investment.
 
@@ -27,4 +27,11 @@ description: 'The SWM token is the essential element, which powers the SWARM eco
 
 ![](../.gitbook/assets/idex02.png)
 
-[<img src="../.gitbook/assets/idex02.png">](https://idex.market/eth/swm)
+[![](../.gitbook/assets/idex02.png)](https://idex.market/eth/swm)
+
+![](../.gitbook/assets/bitfinex.png)
+
+![](../.gitbook/assets/uniswap.png)
+
+![](../.gitbook/assets/hitbtc.png)
+
