@@ -8,17 +8,17 @@ description: >-
 
 ![](../../.gitbook/assets/mn.png)
 
-
-
 ## **Why run a masternode?**
 
 SWARM Masternodes are a way for anyone to provide services to the network and to earn rewards for doing so. Help us build the decentralized financial platform of tomorrow.
 
 ## Live Nodes
 
-[![](../.gitbook/assets/idex02.png)](https://idex.market/eth/swm)
+[![](https://github.com/swarmfund/swarm-network-www/tree/88d6b7cc31ce73cecbac203cdba49a46d06cfcb2/swarm-network/.gitbook/assets/idex02.png)](https://idex.market/eth/swm)
 
-[![](../.gitbook/assets/mn-dashboard.png)](https://masternodes.swarmnetwork.org/#/)
+[![](https://github.com/swarmfund/swarm-network-www/tree/88d6b7cc31ce73cecbac203cdba49a46d06cfcb2/swarm-network/.gitbook/assets/mn-dashboard.png)](https://masternodes.swarmnetwork.org/#/)
+
+![](../../.gitbook/assets/mn-dashboard.png)
 
 ## **How to run a masternode**
 
