@@ -11,27 +11,28 @@ description: >-
 <table>
   <thead>
     <tr>
-      <th style="text-align:center"></th>
-      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <img src="../../.gitbook/assets/mn-network-governance.png" alt/>
       </td>
       <td style="text-align:left">
-        <p><b>Network Services &amp; Governance: </b>Run essential functions and
-          help govern the decentralized SWARM Network.</p>
+        <p><b>Network Services &amp; Governance:</b> Run essential functions and help
+          govern the decentralized SWARM Network.</p>
         <ul>
-        <p><li>Host SWARM core software and Market Access Protocol (MAP)</li></p>
-        <p><li>Validate investor qualifications and token transfer restrictions</li></p>
-        <p><li>Participate in governing the network with stake-weighted voting on community
-          ballots</li></ul></p>
+          <li>Host SWARM core software and Market Access Protocol (MAP)</li>
+          <li>Validate investor qualifications and token transfer restrictions</li>
+          <li>Participate in governing the network with stake-weighted voting on community
+            ballots</li>
+        </ul>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <img src="../../.gitbook/assets/mn-staking-rewards.png" alt/>
       </td>
       <td style="text-align:left">
@@ -42,25 +43,25 @@ description: >-
       </td>
     </tr>
   </tbody>
-</table>
-
-<table>
+</table><table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <img src="../../.gitbook/assets/mn-network-governance.png" alt/>
+      </th>
+      <th style="text-align:left">
+        <p><b>Network Services &amp; Governance:</b> Run essential functions and help
+          govern the decentralized SWARM Network.</p>
+        <p>Host SWARM core software and Market Access Protocol (MAP)</p>
+        <p>Validate investor qualifications and token transfer restrictions</p>
+        <p>Participate in governing the network with stake-weighted voting on community
+          ballots</p>
+      </th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/mn-network-governance.png" alt/>
-      </td>
       <td style="text-align:left">
-        <p><b>Network Services &amp; Governance: </b>Run essential functions and
-          help govern the decentralized SWARM Network.</p>
-        <p><li>Host SWARM core software and Market Access Protocol (MAP)</li></p>
-        <p><li>Validate investor qualifications and token transfer restrictions</li></p>
-        <p><li>Participate in governing the network with stake-weighted voting on community
-          ballots</li></p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
         <img src="../../.gitbook/assets/mn-staking-rewards.png" alt/>
       </td>
       <td style="text-align:left">
@@ -71,9 +72,7 @@ description: >-
       </td>
     </tr>
   </tbody>
-</table>
-
-SWARM Masternodes are a way for anyone to provide services to the network and to earn rewards for doing so. Help us build the decentralized financial platform of tomorrow.
+</table>SWARM Masternodes are a way for anyone to provide services to the network and to earn rewards for doing so. Help us build the decentralized financial platform of tomorrow.
 
 ## **How to run a masternode**
 
