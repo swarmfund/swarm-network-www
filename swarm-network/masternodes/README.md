@@ -21,7 +21,7 @@ description: >-
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center"><img src="../.gitbook/assets/mn-network-governance.png"></td>
+      <td style="text-align:center"><img src="../../.gitbook/assets/mn-network-governance.png"></td>
       <td style="text-align:left">
               <p><b>NETWORK SERVICES &amp; GOVERNANCE</b>
         </p>
@@ -39,7 +39,7 @@ description: >-
 </table><table>
   <thead>
     <tr>
-      <td style="text-align:center"><img src="../.gitbook/assets/mn-staking-rewards.png"></td>
+      <td style="text-align:center"><img src="../../.gitbook/assets/mn-staking-rewards.png"></td>
       <th style="text-align:left">
         <p><b>STAKING REWARDS</b>
         </p>
