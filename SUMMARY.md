@@ -4,6 +4,7 @@
 
 ## Swarm Network
 
+* [SWM token](swarm-network/swm-token.md)
 * [Network Governance](swarm-network/network-governance/README.md)
   * [Getting started](swarm-network/network-governance/getting-started.md)
   * [The Swarm Network](swarm-network/network-governance/the-swarm-network/README.md)
