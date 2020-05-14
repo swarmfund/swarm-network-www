@@ -50,6 +50,7 @@ description: >-
 :-------------------------:|:-------------------------:
 ![](../.gitbook/assets/mn-staking-rewards.png)  |  ![](../.gitbook/assets/mn-staking-rewards.png)
 
+(../.gitbook/assets/mn-staking-rewards.png)
 
 SWARM Masternodes are a way for anyone to provide services to the network and to earn rewards for doing so. Help us build the decentralized financial platform of tomorrow.
 
