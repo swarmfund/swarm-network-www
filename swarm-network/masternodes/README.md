@@ -11,48 +11,6 @@ SWARM Masternodes are a way for anyone to provide services to the network and to
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/mn-network-governance.png" alt/>
-      </td>
-      <td style="text-align:left">
-        <p><b>NETWORK SERVICES &amp; GOVERNANCE</b>
-        </p>
-        <p>Run essential functions and help govern the decentralized SWARM Network</p>
-        <ul>
-          <li>Host SWARM core software and Market Access Protocol (MAP)</li>
-          <li>Validate investor qualifications and token transfer restrictions</li>
-          <li>Participate in governing the network with stake-weighted voting on community
-            ballots</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <th style="text-align:center">
-        <img src="../../.gitbook/assets/mn-staking-rewards.png" alt/>
-      </th>
-      <th style="text-align:left">
-        <p><b>STAKING REWARDS</b>
-        </p>
-        <p>Earn SWM for providing network services</p>
-        <ul>
-          <li>10 million initial SWM token reward pool (established 1 September 2018)</li>
-          <li>2.5M initial annual pool, reducing by 25% each year, for 100 years</li>
-          <li>Earned continuously, distributed monthly to active nodes</li>
-        </ul>
-      </th>
-    </tr>
-  </tbody>
-
-
-<table>
-  <thead>
-    <tr>
       <th style="text-align:center"></th>
       <th style="text-align:left"></th>
     </tr>
