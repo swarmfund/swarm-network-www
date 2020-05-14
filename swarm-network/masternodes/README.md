@@ -23,10 +23,11 @@ description: >-
       <td style="text-align:left">
         <p><b>Network Services &amp; Governance: </b>Run essential functions and
           help govern the decentralized SWARM Network.</p>
+        <ul>
         <p><li>Host SWARM core software and Market Access Protocol (MAP)</li></p>
         <p><li>Validate investor qualifications and token transfer restrictions</li></p>
         <p><li>Participate in governing the network with stake-weighted voting on community
-          ballots</li></p>
+          ballots</li></ul></p>
       </td>
     </tr>
     <tr>
