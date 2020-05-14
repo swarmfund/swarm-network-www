@@ -8,15 +8,60 @@ description: >-
 
 ![](../../.gitbook/assets/mn.png)
 
+|  |  |
+| :--- | :--- |
+
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center"><img src="../.gitbook/assets/mn-network-governance.png"></td>
+      <td style="text-align:left">
+              <p><b>NETWORK SERVICES &amp; GOVERNANCE</b>
+        </p>
+        <p>Run essential functions and help govern the decentralized SWARM Network</p>
+        <ul>
+          <li>Host SWARM core software and Market Access Protocol (MAP)</li>
+          <li>Validate investor qualifications and token transfer restrictions</li>
+          <li>Participate in governing the network with stake-weighted voting on community
+          ballots</li>
+      </td>
+      </th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
+    <tr>
+      <td style="text-align:center"><img src="../.gitbook/assets/mn-staking-rewards.png"></td>
+      <th style="text-align:left">
+        <p><b>STAKING REWARDS</b>
+        </p>
+        <p>Earn SWM for providing network services</p>
+        <ul>
+          <li>10 million initial SWM token reward pool (established 1 September 2018)</li>
+          <li>2.5M initial annual pool, reducing by 25% each year, for 100 years</li>
+          <li>Earned continuously, distributed monthly to active nodes</li>
+        </ul>
+      </td>
+      </th>
+    </tr>
+  </tbody>
+</table>
+
 ## **Why run a masternode?**
 
 SWARM Masternodes are a way for anyone to provide services to the network and to earn rewards for doing so. Help us build the decentralized financial platform of tomorrow.
 
 ## Live Nodes
 
-[![](https://github.com/swarmfund/swarm-network-www/tree/88d6b7cc31ce73cecbac203cdba49a46d06cfcb2/swarm-network/.gitbook/assets/idex02.png)](https://idex.market/eth/swm)
-
-[![](https://github.com/swarmfund/swarm-network-www/tree/88d6b7cc31ce73cecbac203cdba49a46d06cfcb2/swarm-network/.gitbook/assets/mn-dashboard.png)](https://masternodes.swarmnetwork.org/#/)
+[![](../../.gitbook/assets/mn-dashboard.png)](https://masternodes.swarmnetwork.org/#/)
 
 ![](../../.gitbook/assets/mn-dashboard.png)
 
