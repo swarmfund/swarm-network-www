@@ -23,10 +23,10 @@ description: >-
       <td style="text-align:left">
         <p><b>Network Services &amp; Governance: </b>Run essential functions and
           help govern the decentralized SWARM Network.</p>
-        <p>* Host SWARM core software and Market Access Protocol (MAP)</p>
-        <p>* Validate investor qualifications and token transfer restrictions</p>
-        <p>* Participate in governing the network with stake-weighted voting on community
-          ballots</p>
+        <p><li>Host SWARM core software and Market Access Protocol (MAP)</li></p>
+        <p><li>Validate investor qualifications and token transfer restrictions</li></p>
+        <p><li>Participate in governing the network with stake-weighted voting on community
+          ballots</li></p>
       </td>
     </tr>
     <tr>
@@ -41,50 +41,36 @@ description: >-
       </td>
     </tr>
   </tbody>
-</table><table>
-  <thead>
+</table>
+
+<table>
+  <tbody>
     <tr>
-      <th style="text-align:left">
-        <img src="https://github.com/swarmfund/swarm-network-www/tree/4a0906e3c623850b8bc6ba56b81b10df14b79289/swarm-network/.gitbook/assets/mn-network-governance.png"
-        alt/>
-      </th>
-      <th style="text-align:left">
-        <p><b>Network Services &amp; Governance</b>
-        </p>
-        <p>Run essential functions and help govern the decentralized SWARM Network</p>
-        <ul>
-          <li>Host SWARM core software and Market Access Protocol (MAP)</li>
-          <li>Validate investor qualifications and token transfer restrictions</li>
-          <li>Participate in governing the network with stake-weighted voting on community
-            ballots</li>
-        </ul>
-      </th>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/mn-network-governance.png" alt/>
+      </td>
+      <td style="text-align:left">
+        <p><b>Network Services &amp; Governance: </b>Run essential functions and
+          help govern the decentralized SWARM Network.</p>
+        <p><li>Host SWARM core software and Market Access Protocol (MAP)</li></p>
+        <p><li>Validate investor qualifications and token transfer restrictions</li></p>
+        <p><li>Participate in governing the network with stake-weighted voting on community
+          ballots</li></p>
+      </td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
-      <th style="text-align:left">
-        <img src="https://github.com/swarmfund/swarm-network-www/tree/4a0906e3c623850b8bc6ba56b81b10df14b79289/swarm-network/.gitbook/assets/mn-staking-rewards.png"
-        alt/>
-      </th>
-      <th style="text-align:left">
-        <p><b>Staking Rewards</b>
-        </p>
-        <p>Earn SWM for providing network services</p>
-        <ul>
-          <li>10 million initial SWM token reward pool (established 1 September 2018)</li>
-          <li>2.5M initial annual pool, reducing by 25% each year, for 100 years</li>
-          <li>Earned continuously, distributed monthly to active nodes.</li>
-        </ul>
-      </th>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/mn-staking-rewards.png" alt/>
+      </td>
+      <td style="text-align:left">
+        <p><b>Staking Rewards:</b> Earn SWM for providing network services.</p>
+        <p>* 10 million initial SWM token reward pool (established 1 September 2018)</p>
+        <p>* 2.5M initial annual pool, reducing by 25% each year, for 100 years</p>
+        <p>* Earned continuously, distributed monthly to active nodes</p>
+      </td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table>| Italic | Block letters |
-| :---: | :---: |
-| ![](../../.gitbook/assets/mn-staking-rewards.png) | ![](../../.gitbook/assets/mn-network-governance.png) |
+  </tbody>
+</table>
 
 SWARM Masternodes are a way for anyone to provide services to the network and to earn rewards for doing so. Help us build the decentralized financial platform of tomorrow.
 
