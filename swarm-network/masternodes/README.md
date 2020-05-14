@@ -1,11 +1,7 @@
----
-description: >-
-  Help us build decentralized financial infrastructure.Earn rewards for your
-  work.
----
-
 # Masternodes
-
+Help us build decentralized financial infrastructure.
+Earn rewards for your work.
+  
 ![](../../.gitbook/assets/mn.png)
 
 |  |  |
@@ -40,7 +36,7 @@ description: >-
   <thead>
     <tr>
       <td style="text-align:center"><img src="../../.gitbook/assets/mn-staking-rewards.png"></td>
-      <th style="text-align:left">
+      <td style="text-align:left">
         <p><b>STAKING REWARDS</b>
         </p>
         <p>Earn SWM for providing network services</p>
