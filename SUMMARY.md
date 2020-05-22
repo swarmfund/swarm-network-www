@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [Swarm Network](README.md)
 
 ## Swarm Network
 
