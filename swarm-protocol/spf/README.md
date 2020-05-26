@@ -6,11 +6,11 @@ description: '- WORK IN PROGRESS -'
 
 ## Introduction
 
-The SwarmPoweredFundraise \(SFP\) is a significant addition to the open Swarm protocol and provides powerful tools to perform regulatory compliant fundraises for security tokens.
+The SwarmPoweredFundraise \(SPF\) is a significant addition to the open Swarm protocol and provides powerful tools to perform regulatory compliant fundraises for security tokens.
 
 The requirement is that the token for which the fundraise occurs is operated on the [SRC20](https://www.swarm.fund/src20) standard. An SFP is like a module that can be used for each distinct fundraise for an SRC20 token.
 
-Like SRC20, the SFP stack is open source, so the Swarm network welcomes token issuers and service providers freely use, extend and customize.
+Like SRC20, the SPF stack is open source, so the Swarm network welcomes token issuers and service providers freely use, extend and customize.
 
 ## Smart Contract Index
 
