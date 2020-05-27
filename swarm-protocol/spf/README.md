@@ -4,6 +4,8 @@ description: '- WORK IN PROGRESS -'
 
 # SwarmPoweredFundraise
 
+![](../../.gitbook/assets/fundraising-hero.png)
+
 ## Introduction
 
 The SwarmPoweredFundraise \(SPF\) is a significant addition to the open Swarm protocol and provides powerful tools to perform regulatory compliant fundraises for security tokens.

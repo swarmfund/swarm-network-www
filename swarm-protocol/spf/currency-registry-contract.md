@@ -37,3 +37,4 @@ description: '- WORK IN PROGRESS -'
 | `setUSDERC20(address)` returns `(bool)` | Sets the currency address that will be used as the default USD dollar oracle address for a Swarm Powered Fundraise. Usually set to USDC; e.g. to set to USDC use `setUSDERC20(“0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48”)` |
 | `renounceOwnership()` | Contract owner can renounce ownership of this Currency Registry contract |
 | `transferOwnership()` | Transfers ownership of this Currency Registry contract to another address |
+
