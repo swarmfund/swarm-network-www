@@ -23,14 +23,14 @@ description: '- WORK IN PROGRESS -'
 | `getBaseCurrency()` returns `(address)` | Returns the base currency in which a Swarm Powered Fundraise is denominated |
 | `toUSD(uint256, address)` returns `(uint256)` | Converts the amount given as the first parameter into USD. The second parameter is the address of the currency to be converted to USD. |
 | `toBCY(uint256, address)` returns `(uint256)` | Converts the amount given as the first parameter into the Base Currency. The second parameter is the address of the currency to be converted to Base Currency |
-| `getRate(address, address, uint256, uint256)` returns `(uint256, uint256)` | Returns the exchange rate between the first and the second address. The first parameter is the token address of the currency to be exchanged from, the second parameter is the address of the currency to be exchanged to, the third parameter is the value in Wei to be exchanged and the fourth parameter is the decimal places. E.g. to get the rate of 1 ETH in DAI use
-`getRate(“0x0000000000000000000000000000000000000000”,”0x2a1530C4C41db0B0b2bB646CB5Eb1A67b7158667”,1000000000000000000,0)` |
+| `getRate(address, address, uint256, uint256)` returns `(uint256, uint256)` | Returns the exchange rate between the first and the second address. The first parameter is the token address of the currency to be exchanged from, the second parameter is the address of the currency to be exchanged to, the third parameter is the value in Wei to be exchanged and the fourth parameter is the decimal places. E.g. to get the rate of 1 ETH in DAI use `getRate(“0x0000000000000000000000000000000000000000”,"0x2a1530C4C41db0B0b2bB646CB5Eb1A67b7158667”,1000000000000000000,0)` |
 | `isOwner()` returns `(bool)` | Returns true if the calling address is the contract owner |
 | `owner()` returns `(address)` | Returns the address of the contract owner |
 
 ### Write Functions
 
 | Function | Description |
+| :--- | :--- |
 | `addCurrency(address, address)` returns `(bool)` | Adds a currency to the list of currencies accepted in a Swarm Powered Fundraise. The first parameter is the token address and the second parameter is the address of the exchange proxy contract |
 | `lockExchangeRates()` | Locks the exchange rates of currencies accepted in a Swarm Powered Fundraise to the Base Currency |
 | `setBaseCurrency(address)` | Sets a base currency from the list of currencies accepted in a Swarm Powered Fundraise; the parameter is the address of the base currency to be set |
