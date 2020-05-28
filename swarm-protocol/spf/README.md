@@ -1,5 +1,5 @@
 ---
-description: '- WORK IN PROGRESS -'
+description: '- BETA -'
 ---
 
 # SwarmPoweredFundraise

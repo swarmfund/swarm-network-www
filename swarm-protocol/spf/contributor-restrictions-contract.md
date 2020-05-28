@@ -1,11 +1,11 @@
 ---
-description: '- WORK IN PROGRESS -'
+description: '- BETA -'
 ---
 
 # Contributor Restrictions Contract
 
 * **Smart Contract:** specific to a Swarm Powered Fundraise for a specific SRC20
-* **Created:**  Step X in the deployment of a Swarm Powered Fundraise and then referenced in the Swarm Powered Fundraise contract 
+* **Created:** review the [SPF Deployment Sequence](https://www.swarmnetwork.org/swarm-protocol/spf#deployment-sequence); then referenced in the Swarm Powered Fundraise contract 
 * **Purpose:** Manages whitelist and restrictions for each contributor in a Swarm Powered Fundraise
 * **Example:**  TBD
 

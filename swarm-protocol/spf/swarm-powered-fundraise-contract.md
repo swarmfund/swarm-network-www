@@ -1,11 +1,11 @@
 ---
-description: '- WORK IN PROGRESS -'
+description: '- BETA -'
 ---
 
 # Swarm Powered Fundraise Contract
 
 * **Smart Contract:** specific to a Swarm Powered Fundraise for a specific SRC20
-* **Created:**  Step X \(final step\) in the deployment of a Swarm Powered Fundraise; this contract references all other previously deployed contracts related to this fundraise 
+* **Created:** review the [SPF Deployment Sequence](https://www.swarmnetwork.org/swarm-protocol/spf#deployment-sequence); this contract references all other previously deployed contracts related to this fundraise 
 * **Purpose:** Operates the actual SwarmPoweredFundraise; finalizes via stakeToMint
 * **Example:**  TBD
 
