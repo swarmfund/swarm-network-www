@@ -42,5 +42,32 @@ Each of the following \(pre-existing\) smart contracts exist across the SRC20 ne
 
 ### Deployment Sequence
 
-TBD
-
+1. Deploy https://github.com/swarmfund/swarm-compliant-contract/blob/master/contracts/factories/SRC20Registry.sol
+   It needs SWM token address during deployment
+2. Deploy https://github.com/swarmfund/swarm-compliant-contract/blob/master/contracts/factories/SRC20Factory.sol
+   It needs SRC20Registry deployment address during deployment; after 'SRC20Factory' is deployed, go to deployed SRC20Registry contract and add this 'SRC20Factory' deployment address in 'addFactory()' function
+3. Deploy https://github.com/swarmfund/swarm-compliant-contract/blob/master/contracts/token/AssetRegistry.sol
+   It needs 'SRC20Factory' deployment address during deployment
+4. Deploy https://github.com/swarmfund/swarm-compliant-contract/blob/master/contracts/factories/SWMPriceOracle.sol
+   It needs SWM price in the form of two variables like numerator and denominator
+5. Deploy https://github.com/swarmfund/swarm-compliant-contract/blob/master/contracts/factories/GetRateMinter.sol
+   It needs three parameters, one is 'SRC20Registry' address, second is 'AssetRegistry' address and third is 'SWMPriceOracle' address. After 'GetRateMinter' is deployed, goto deployed 'SRC20Registry' contract and add this 'GetRateMinter' address in 'addMinter()' function
+6. Deploy https://github.com/swarmfund/swarm-compliant-contract/blob/master/contracts/rules/TransferRules.sol
+   It needs owner address, most of the time it will be issuer wallet address
+7. Deploy https://github.com/swarmfund/swarm-compliant-contract/blob/master/contracts/roles/SRC20Roles.sol
+   It needs the following parameters: 1/ 'owner address', 2/ 'SRC20Registry address' and 3/ 'TransferRules address'
+8. Deploy https://github.com/swarmfund/swarm-compliant-contract/blob/master/contracts/token/features/Featured.sol
+   It requires the following parameters: 1/ vowner address' and 2/ any number greater than 0 to enable features
+9. Goto 'SRC20Factory' deployed contract, generate new SRC20 token using 'create()' function
+10. Deploy https://github.com/swarmfund/swarm-compliant-contract/blob/master/contracts/fundraising/UniswapProxy.sol
+11. Deploy https://github.com/swarmfund/swarm-compliant-contract/blob/master/contracts/fundraising/CurrencyRegistry.sol
+   Register whatever currencies you want to accept for this fundraise using 'addCurrency()' function; most of the time it will be ZERO address for ETH, DAI address, USDC address and WBTC address. Register your base currency you want to use for this fundraise using 'setBaseCurrency()' function.
+12. Deploy https://github.com/swarmfund/swarm-compliant-contract/blob/master/contracts/fundraising/SwarmPoweredFundraise.sol
+   This requires several parameters: like 'label', 'SRC20 address', 'CurrencyRegistry address', 'startDate', 'endDate', 'softcap' and 'hardcap'
+13. Deploy https://github.com/swarmfund/swarm-compliant-contract/blob/master/contracts/fundraising/AffiliateManager.sol
+14. Deploy https://github.com/swarmfund/swarm-compliant-contract/blob/master/contracts/fundraising/ContributorRestrictions.sol
+   It requires the following parameters: 1/ 'SwarmPoweredFundraise address' and 2/ 'number of contributors' want to allow for this fundraise
+15. Goto 'SwarmPoweredFundraise' deployed contract and complete the remaining setup using 'setupContract()' function.'setupContract' requires many parameters like 'SRC20 token price', 'minimum amount of contribution', 'maximum amount of contribution', 'AffiliateManager address', 'ContributorRestrictions address', 'GetRateMinter address' and 'lock' or 'unlock' contributions
+16. Goto 'SRC20' deployed contract and set 'SwarmPoweredFundraise' address using 'setFundRaiseAddr()' function
+17. Goto 'ContributorRestrictions' deployed contract and whitelist all your contributors using 'whitelistAccount()' function. After this contributors can contribute to fundraise.
+18. Once fundraise is completed, issuer can call 'stakeAndMint'. This function will do the following in one process: 1/ staking his equivalent SWM tokens, 2/ minting SRC20 tokens and 3/ withdrawing total contributor funds to contract owner 
