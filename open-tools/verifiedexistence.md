@@ -2,9 +2,7 @@
 
 
 
-## VerifiedExistence.sol
-
-### Intro
+## Intro
 
 This smart contract is meant to:
 
@@ -24,7 +22,7 @@ This smart contract is meant to:
 
 * Recipient wallets need to be able to handle ER721. For safety reasons, it is not possible to send a token to a contract that does not explicitly support it.
 
-### tl/dr instructions
+## tl/dr instructions
 
 * Tools:
   * Deploy contract via [Remix](https://remix.ethereum.org/)
@@ -40,7 +38,7 @@ This smart contract is meant to:
 * Review `proof` data
   * Query either using `getProofData()` and/or `getProofIdByHash() to get`proofHash, timestamp, description\`
 
-### Notable Functions
+## Notable Functions
 
 **Read Functions**
 
@@ -71,7 +69,7 @@ This smart contract is meant to:
 | `batchGrantRole()` | `hash of role`, `addresses [0x..., 0x...]` to grant certain role to multiple addresses |
 | `revokeRole()` | same as `grantRole` only reverse |
 
-### Swarm - Example Use Cases
+## Swarm - Example Use Cases
 
 #### Core initial use case
 
