@@ -1,26 +1,21 @@
 # VerifiedExistence
 
-
+![](../.gitbook/assets/verifiedexistence-bg2.png)
 
 ## Intro
 
-This smart contract is meant to:
+This [smart contract](https://github.com/swarmfund/swarm-open-tools/tree/master/VerifiedExistence) is meant to:
 
 **Create proofs of the existence of a Hash \(representing some document or text\), thus verify their existence**
 
-* Owner \(and whitelisted others\) can create new `proofs`
+* Owner \(and whitelisted others\) can create new `proofs`, like verified time-based document watermarks on the blockchain
 * Contract creates `proofs` as NFT/ERC721, which can be sent to a recipient address
 * Whitelisted others can add confirmations for `proofs`
-
-  **Roles:**
-
-* `default_admin`: contract deployer set as default, can be transferred; is allowed to grant/revoke all roles \(admins + whitelists\)
-* `proof_whitelisted`: add/delete proofs; admins are not automatically whitelisted, so that needs to be added if desired
-* `confirm_whitelisted`: add/delete confirmations of proofs
-
-  **Note:**
-
-* Recipient wallets need to be able to handle ER721. For safety reasons, it is not possible to send a token to a contract that does not explicitly support it.
+* **Roles:**
+  * `default_admin`: contract deployer set as default, can be transferred; is allowed to grant/revoke all roles \(admins + whitelists\)
+  * `proof_whitelisted`: add/delete proofs; admins are not automatically whitelisted, so that needs to be added if desired
+  * `confirm_whitelisted`: add/delete confirmations of proofs
+* **Note:** Recipient wallets need to be able to handle ER721. For safety reasons, it is not possible to send a token to a contract that does not explicitly support it.
 
 ## tl/dr instructions
 
@@ -71,7 +66,7 @@ This smart contract is meant to:
 
 ## Swarm - Example Use Cases
 
-#### Core initial use case
+### Core initial use case
 
 The Swarm Council can publish protocols of decisions taken on GitHub and verify the Hash via VerifiedExistence:
 
@@ -83,7 +78,7 @@ The Swarm Council can publish protocols of decisions taken on GitHub and verify 
   * listed in this [repo](https://github.com/swarmfund/swarm-network-governance/tree/master/SCVs); text between  and  &lt;/hash-end&gt; tags is hashed
   * create `proofs` using hash and title; send it to a Swarm Council wallet; e.g [`proof (SCV_1587031154_Decision regarding_April_Voting_Period.md)`](https://etherscan.io/tx/0xf9363a3dc08a1927cdbe5e90c83c96bfd80012296bdad6821193a15a4f08460e) 
 
-#### Other potential use cases:
+### Other potential use cases:
 
 **Proof of Masternode**
 
@@ -92,7 +87,7 @@ The Swarm Council can publish protocols of decisions taken on GitHub and verify 
 * Masternode distributions could be using NFTs held as basis for reward distribution
 * Masternodes could be confirming various actions of the Council contract
 
-  **Masternodes could be added as confirm\_whitelisted**
+**Masternodes could be added as confirm\_whitelisted**
 
 * Can then add supporting votes \(confirmations\) to certain actions
 
