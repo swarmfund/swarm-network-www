@@ -48,7 +48,9 @@ SWARM Masternodes are a way for anyone to provide services to the network and to
       </td>
     </tr>
   </tbody>
-</table>## Live Nodes
+</table>
+
+## Live Nodes
 
 [![](../../.gitbook/assets/mn-dashboard.png)](https://masternodes.swarmnetwork.org/#/)
 

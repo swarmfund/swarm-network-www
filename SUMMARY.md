@@ -43,6 +43,10 @@
   * [Swarm Powered Fundraise Contract](swarm-protocol/spf/swarm-powered-fundraise-contract.md)
   * [Contributor Restrictions Contract](swarm-protocol/spf/contributor-restrictions-contract.md)
 
+## Open tools
+
+* [VerifiedExistence](open-tools/verifiedexistence.md)
+
 ## Keep up
 
 * [Blog](https://medium.com/swarmfund)
