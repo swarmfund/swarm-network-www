@@ -75,7 +75,7 @@ The Swarm Council can publish protocols of decisions taken on GitHub and verify 
 * Council published documents with hashes;
 * Create Proof \(Hash + meta data\) and proof NFT / ERC721 is sent to dedicated wallet \(e.g. Gnosis Safe, which allows ERC721 to be kept as “Collectibles”\)
 * Example: Swarm Council Votes \(SCVs\)
-  * listed in this [repo](https://github.com/swarmfund/swarm-network-governance/tree/master/SCVs); text between  and  &lt;/hash-end&gt; tags is hashed
+  * listed in this [repo](https://github.com/swarmfund/swarm-network-governance/tree/master/SCVs); text between &lt;/hash-start&gt; and  &lt;/hash-end&gt; tags is hashed
   * create `proofs` using hash and title; send it to a Swarm Council wallet; e.g [`proof (SCV_1587031154_Decision regarding_April_Voting_Period.md)`](https://etherscan.io/tx/0xf9363a3dc08a1927cdbe5e90c83c96bfd80012296bdad6821193a15a4f08460e) 
 
 ### Other potential use cases:
