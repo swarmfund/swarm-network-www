@@ -6,14 +6,12 @@ The Swarm Council is an elected body of five natural persons who are Members. It
 
 ## Current members
 
-* Richard Steward \(current term ends June 25, 2020\)
-* Zachary K. Perryman  \(current term ends October 25, 2020\) [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/zacharyperryman/)
-* Sam Stone \(current term ends December 25, 2020\) [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/stonysam/) 
-* Chris Eberle \(voted in with GAB, December 25, 2019; pending acceptance\)[![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/stonysam/) 
-* Alex Cornwell \(voted in with GAB, term ends February 14, 2021\) [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/alexncornwell)
-* Aravinda Babu \(voted in with GAB, term ends February 14, 2021\) [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/linuxchip/)
+* Richard Steward \(current term ends 6/25/20\)
+* Zachary K. Perryman  \(current term ends 10/25/20\) [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/zacharyperryman/)
+* Alex Cornwell \(current term ends 2/14/21\)
+* 4 vacant seats \(council seats increased from 5 to 7 on [3/11/20](https://community.swarm.fund/t/swarm-council-members-upgrade/2955)\)  [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/alexncornwell)
 
-The Swarm Council may expand to a maximum of nine Members, with the addition of two new Members upon each expansion. Expansion decisions shall be made by a governance action ballot or by a unanimous vote of the Swarm Council.
+The Swarm Council may expand to a maximum of nine Members, with the addition of two new Members upon each expansion. Expansion decisions shall be made by a governance action ballot or by unanimous vote of the Swarm Council.
 
 ## Appointment
 
@@ -23,6 +21,8 @@ Any Member may nominate another Member to fill a vacant seat on the Swarm Counci
 
 ## Past council members
 
-* Philipp Pieper \(term ended December 25, 2019\) [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725%20%281%29.png)](https://www.linkedin.com/in/philipppieper/) 
-* Timo Lehes \(current term ends March 25, 2019\) [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725%20%281%29.png)](https://www.linkedin.com/in/timolehes/)
+* Aravinda Babu \(resigned 5/5/20\)[![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/linuxchip/)
+* Sam Stone \(resigned 5/5/20\) [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/stonysam/) 
+* Philipp Pieper \(term ended 12/25/19\) [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725%20%281%29.png)](https://www.linkedin.com/in/philipppieper/) 
+* Timo Lehes \(term ended 2/25/20\) [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725%20%281%29.png)](https://www.linkedin.com/in/timolehes/)
 
