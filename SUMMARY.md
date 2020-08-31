@@ -42,6 +42,7 @@
   * [Affiliate Manager Contract](swarm-protocol/spf/affiliate-manager-contract.md)
   * [Swarm Powered Fundraise Contract](swarm-protocol/spf/swarm-powered-fundraise-contract.md)
   * [Contributor Restrictions Contract](swarm-protocol/spf/contributor-restrictions-contract.md)
+* [Market Access Protocol](swarm-protocol/market-access-protocol.md)
 
 ## Open tools
 
@@ -53,4 +54,5 @@
 * [Twitter](https://twitter.com/Swarm)
 * [Discourse](https://community.swarm.fund/)
 * [Telegram](http://swm.by/Telegram)
+* [FAQ](keep-up/faq.md)
 
