@@ -1,5 +1,5 @@
 ---
-description: The New Industry Standard for Trading Security Tokens​
+description: A New Industry Standard for Trading Security Tokens​
 ---
 
 # Market Access Protocol
@@ -14,9 +14,7 @@ SWARM has developed a regulatory compliant framework that facilitates the digiti
 
 In order to develop a thriving, sustainable ecosystem supporting security token usage, distribution, and transferability, SWARM has identified and incorporated the following core principles:
 
-#### **Play by the Rules.**
-
-**Built-In Compliance**
+#### **Built-In Compliance: Play by the Rules**
 
 MAP ensures that all requisite parameters are met before a security token transaction can be processed, thereby providing regulatory compliance and proof thereof.
 
@@ -26,9 +24,7 @@ The successful completion of a transaction implies its validity due to the previ
 
 
 
-#### **Own your personal data.**
-
-**Privacy**
+#### **Privacy: Own your personal data**
 
 MAP can instantly surface whether or not an individual’s wallet is compliant with the requirements for any security token transfer.
 
@@ -38,9 +34,7 @@ Investor identity is secure - and individuals have control over who can access t
 
 
 
-#### **Get rewarded to participate.**
-
-**Incentives**
+#### **Incentives: Get rewarded to participate**
 
 Qualification providers and all operators within the ecosystem have significant incentives to actively engage.
 
@@ -48,9 +42,7 @@ Incentives ensure long-term viability of MAP.
 
 
 
-#### **Anyone can join.**
-
-**Ease of Use**
+#### **Ease of Use: Anyone can join**
 
 All parties can easily integrate with the framework and satisfy their interests.
 
