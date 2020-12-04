@@ -7,6 +7,7 @@
 * [SWM token](swarm-network/swm-token.md)
 * [Network Governance](swarm-network/network-governance/README.md)
   * [Getting started](swarm-network/network-governance/getting-started.md)
+  * [Voting App](https://snapshot.page/#/swarmnetwork.eth)
   * [The Swarm Network](swarm-network/network-governance/the-swarm-network/README.md)
     * [Powers](swarm-network/network-governance/the-swarm-network/powers.md)
     * [Governance](swarm-network/network-governance/the-swarm-network/governance.md)
@@ -54,5 +55,6 @@
 * [Twitter](https://twitter.com/Swarm)
 * [Discourse](https://community.swarm.fund/)
 * [Telegram](http://swm.by/Telegram)
+* [Voting App](https://snapshot.page/#/swarmnetwork.eth)
 * [FAQ](keep-up/faq.md)
 
