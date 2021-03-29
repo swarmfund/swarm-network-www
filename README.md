@@ -15,8 +15,6 @@ description: >-
 
 **SWM Staking:** Earn rewards by participating in the network.
 
-###                            [Click here for all info on SWM token and how to get it](https://app.gitbook.com/@swarm/s/swarm-network/~/drafts/-MWxWpci_nViUtibdpDj/swarm-network/swm-token)
-
 ![](.gitbook/assets/snetwork.png)
 
 
