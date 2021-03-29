@@ -1,33 +1,40 @@
 ---
-description: 'The SWM token is the essential element, which powers the SWARM ecosystem'
+description: The SWM token is the essential element which powers the SWARM ecosystem.
 ---
 
-# SWM token
+# SWM Token
 
-The SWM token is the **essential element**, which powers the SWARM ecosystem
-
-![](../.gitbook/assets/swmcoin%20%281%29.png)
-
-## SWM Utility
-
-**MASTERNODE STAKE: Help Build the Network** - Masternode operators stake SWM, committing to building and maintaining decentralized infrastructure for security tokens. Operators earn rewards for running the SWARM core software and for validating transactions. [Learn more here.](https://www.swarmmasternodes.com/)
-
-**ISSUANCE STAKE: Tokenization is Free -** Token issuers stake SWM after a successful STO in order to trigger the release of raised funds, to mint security tokens, and to access services provided by the SWARM network. Staked amounts remain in the custody of token issuers and are released at the end of the life of the investment.
-
-![Notes: \* Staking in SWM is required for all tokenization, including asset-backed and non-asset backed, and for projects who are tokenizing an existing portfolio or cap table. \*\* The amount of SWM required for staking will be communicated prior to minting tokens, calculated from a 7 day average market price. \*\*\* A minimum stake of $2,500 applies for Tokenized Asset Value up to $500,000.](../.gitbook/assets/stake-table.png)
-
-**GOVERNANCE: Participate and be heard -** Participate in votes and voice your opinion on how the Swarm network should be run including contributing to policy decisions affecting staking, masternodes, and rewards. Your SWM is your vote. Governance of the network by the SWM token holder community is a core objective of the SWARM Organization.
-
-## Metrics
-
-|  |  |
+| Info & Metrics |  |
 | :--- | :--- |
 | **Blockchain** | Ethereum |
 | **Total Supply** | 100,000,000 SWM |
-| **Total Masternode Rewards** | 10,000,000 SWM |
-| **Token contract** | \*\*\*\*[Token Tracker](https://etherscan.io/address/0x3505f494c3f0fed0b594e01fa41dd3967645ca39) |
+| **Total Staking Rewards** | 10,000,000 SWM |
+| **Etherscan** | \*\*\*\*[Token Tracker](https://etherscan.io/address/0x3505f494c3f0fed0b594e01fa41dd3967645ca39) |
+| **SWM Contract Address** | 0x3505f494c3f0fed0b594e01fa41dd3967645ca39 |
+| **SWM Treasury Contract Address** | 0x689a20daa8b813a73f86717b572e8fa3a42398d6 |
+| **SWM Rewards Contract Address** | 0x11db72f40e88899af7d3270a6206287003dda5fb |
+| **xDai SWM Contract Address** | 0xaB57C72BFe106E6D4f8D82BC8CAD9614cdd890Fa |
+| **Where to buy SWM** | [https://info.uniswap.org/pair/0xe0b1433e0174b47e8879ee387f1069a0dbf94137](https://info.uniswap.org/pair/0xe0b1433e0174b47e8879ee387f1069a0dbf94137) |
 
-## Get SWM
+## SWM Utility
 
-[![](../.gitbook/assets/idex02.png)](https://idex.market/eth/swm) ![](../.gitbook/assets/uniswap%20%281%29.png) [![](../.gitbook/assets/bitfinex.png)](https://www.bitfinex.com/SAN/swarm-fund) [![](../.gitbook/assets/hitbtc.png)](https://hitbtc.com/exchange/SWM-to-BTC)![](../.gitbook/assets/balancer.png) ![](../.gitbook/assets/txbit.png) 
+**Governance: Participate in network votes for the treasury, council members, fees, rewards, and more.**
+
+**Stake SWM Uniswap LP Tokens: Provide liquidity for the Swarm Network ecosystem and earn the highest rewards.** 
+
+**Stake SWM: Stake your SWM tokens to participate in network governance and earn rewards.** 
+
+**SWM fee table for issuers, 80% distributed to SWM Stakers, 20% goes to Treasury:**
+
+| Tokenized Asset Value \(USD\) | Up to $500k | $500k-$1M | $1M-$5M | $5M-$15M | $15M-$50M | $50M-$100M | $100M-$150M | $150M+ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fee \(Calculated in USD, paid in SWM\) | $2,500 | 0.50% | 0.45% | 0.40% | 0.25% | 0.20% | 0.15% | 0.10% |
+
+## Tokenomics:
+
+![](../.gitbook/assets/image%20%283%29.png)
+
+## Get SWM on Uniswap:
+
+![https://info.uniswap.org/pair/0xe0b1433e0174b47e8879ee387f1069a0dbf94137](../.gitbook/assets/256x256_app_icon_pink.png)
 

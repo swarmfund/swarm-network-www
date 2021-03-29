@@ -4,7 +4,6 @@
 
 ## Swarm Network
 
-* [SWM token](swarm-network/swm-token.md)
 * [Network Governance](swarm-network/network-governance/README.md)
   * [Getting started](swarm-network/network-governance/getting-started.md)
   * [Voting App](https://snapshot.page/#/swarmnetwork.eth)
@@ -23,8 +22,8 @@
     * [Ballots](swarm-network/network-governance/intro/ballots.md)
     * [Retrieving the text of previous ballots](swarm-network/network-governance/intro/retrieving-the-text-of-previous-ballots.md)
     * [Voting](swarm-network/network-governance/intro/voting.md)
-* [Masternodes](swarm-network/masternodes/README.md)
-  * [Masternode Rewards](swarm-network/masternodes/masternode-rewards.md)
+* [SWM Token](swarm-network/swm-token.md)
+* [SWM Staking](swarm-network/swm-staking.md)
 
 ## Swarm Protocol
 
@@ -43,11 +42,13 @@
   * [Affiliate Manager Contract](swarm-protocol/spf/affiliate-manager-contract.md)
   * [Swarm Powered Fundraise Contract](swarm-protocol/spf/swarm-powered-fundraise-contract.md)
   * [Contributor Restrictions Contract](swarm-protocol/spf/contributor-restrictions-contract.md)
-* [Market Access Protocol](swarm-protocol/market-access-protocol.md)
+* [mySwarm.app](swarm-protocol/myswarm.app.md)
 
 ## Open tools
 
+* [Legacy Masternode Reward Collection](open-tools/legacy-masternode-reward-collection.md)
 * [VerifiedExistence](open-tools/verifiedexistence.md)
+* [Market Access Protocol](open-tools/market-access-protocol.md)
 
 ## Keep up
 

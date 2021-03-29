@@ -6,10 +6,12 @@ The Swarm Council is an elected body of five natural persons who are Members. It
 
 ## Current members
 
-* Richard Steward \(current term ends 6/25/20\)
-* Zachary K. Perryman  \(current term ends 10/25/20\) [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/zacharyperryman/)
-* Alex Cornwell \(current term ends 2/14/21\)
-* 4 vacant seats \(council seats increased from 5 to 7 on [3/11/20](https://community.swarm.fund/t/swarm-council-members-upgrade/2955)\)  [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/alexncornwell)
+* Richard Steward
+* Zachary K. Perryman 
+* Alex Cornwell 
+* Felix Carl Wiegandt
+* John Gallagher
+* Daniel Faria   [![](https://github.com/swarmfund/swarm-network-www/tree/5b22e05998d5339333c46bf266b09372a0960907/Network-Governance/.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/alexncornwell)
 
 The Swarm Council may expand to a maximum of nine Members, with the addition of two new Members upon each expansion. Expansion decisions shall be made by a governance action ballot or by unanimous vote of the Swarm Council.
 
