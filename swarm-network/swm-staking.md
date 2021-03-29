@@ -26,7 +26,7 @@ Rewards are distributed on the first of every month.
 
 ## How to stake SWM:
 
-Visit [https://stake.myswarm.app/](https://stake.myswarm.app/)
+Visit COMING SOON.
 
 Connect your metamask, Approve SWM or SWM/ETH LP, whichever you prefer, then deposit. 
 
