@@ -22,7 +22,7 @@ Rewards are distributed on the first of every month.
 
 ## Tokenomics:
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ## How to stake SWM:
 

@@ -32,7 +32,7 @@ description: The SWM token is the essential element which powers the SWARM ecosy
 
 ## Tokenomics:
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 ## Get SWM on Uniswap:
 
