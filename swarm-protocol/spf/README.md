@@ -2,7 +2,7 @@
 description: '- BETA -'
 ---
 
-# SwarmPoweredFundraise
+# Swarm Powered Fundraise
 
 ![](../../.gitbook/assets/fundraising-hero.png)
 

@@ -9,7 +9,7 @@ description: >-
 
 **SRC20:** The framework of the Swarm protocol. It gives token issuers the tools to perform regulatory compliant security token issuances.
 
-**SwarmPoweredFundraise \(SPF\):** Powerful tools to perform regulatory compliant fundraises for security tokens.
+**Swarm Powered Fundraise \(SPF\):** Powerful tools to perform regulatory compliant fundraises for security tokens.
 
 **mySwarm.app:** UI built on SPF contracts to start and run Security Token Offerings. You can also manage your security tokens by burning, minting, moving, issuing dividends, and more.
 
