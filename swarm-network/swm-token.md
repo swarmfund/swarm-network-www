@@ -11,9 +11,9 @@ description: The SWM token is the essential element which powers the SWARM ecosy
 | **Total Staking Rewards** | 10,000,000 SWM |
 | **Etherscan** | \*\*\*\*[Token Tracker](https://etherscan.io/address/0x3505f494c3f0fed0b594e01fa41dd3967645ca39) |
 | **SWM Contract Address** | 0x3505f494c3f0fed0b594e01fa41dd3967645ca39 |
+| **xDai SWM Contract Address** | 0xaB57C72BFe106E6D4f8D82BC8CAD9614cdd890Fa |
 | **SWM Treasury Contract Address** | 0x689a20daa8b813a73f86717b572e8fa3a42398d6 |
 | **SWM Rewards Contract Address** | 0x11db72f40e88899af7d3270a6206287003dda5fb |
-| **xDai SWM Contract Address** | 0xaB57C72BFe106E6D4f8D82BC8CAD9614cdd890Fa |
 | **Where to buy SWM** | [https://info.uniswap.org/pair/0xe0b1433e0174b47e8879ee387f1069a0dbf94137](https://info.uniswap.org/pair/0xe0b1433e0174b47e8879ee387f1069a0dbf94137) |
 
 ## SWM Utility
