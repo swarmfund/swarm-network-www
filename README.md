@@ -7,13 +7,13 @@ description: >-
 
 # Swarm Network
 
+### **Protocol, smart contracts, and UI:**
+
 **SRC20:** The framework of the Swarm protocol. It gives token issuers the tools to perform regulatory compliant security token issuances.
 
 **Swarm Powered Fundraise \(SPF\):** Powerful tools to perform regulatory compliant fundraises for security tokens.
 
 **mySwarm.app:** UI built on SPF contracts to start and run Security Token Offerings. You can also manage your security tokens by burning, minting, moving, issuing dividends, and more.
-
-**SWM Staking:** Earn rewards by participating in the network.
 
 ![](.gitbook/assets/snetwork.png)
 
