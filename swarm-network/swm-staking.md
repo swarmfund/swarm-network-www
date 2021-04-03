@@ -22,7 +22,7 @@ Rewards are distributed on the first of every month.
 
 ## Tokenomics:
 
-![](../.gitbook/assets/image%20%283%29.png)
+![minting fees flow to the Rewards Wallet and then to stakers](../.gitbook/assets/image%20%289%29.png)
 
 ## How to stake SWM:
 
