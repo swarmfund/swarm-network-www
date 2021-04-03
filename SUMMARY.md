@@ -55,7 +55,7 @@
 * [Blog](https://medium.com/swarmfund)
 * [Twitter](https://twitter.com/Swarm)
 * [Discourse](https://community.swarm.fund/)
-* [Telegram](http://swm.by/Telegram)
+* [Telegram](https://t.me/swarmfund)
 * [Voting App](https://snapshot.page/#/swarmnetwork.eth)
 * [FAQ](keep-up/faq.md)
 
