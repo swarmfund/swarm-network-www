@@ -42,7 +42,8 @@
   * [Affiliate Manager Contract](swarm-protocol/spf/affiliate-manager-contract.md)
   * [Swarm Powered Fundraise Contract](swarm-protocol/spf/swarm-powered-fundraise-contract.md)
   * [Contributor Restrictions Contract](swarm-protocol/spf/contributor-restrictions-contract.md)
-* [mySwarm.app](swarm-protocol/myswarm.app.md)
+* [mySwarm.app](swarm-protocol/myswarm.app/README.md)
+  * [Kovan test version](swarm-protocol/myswarm.app/kovan-test-version.md)
 
 ## Open tools
 

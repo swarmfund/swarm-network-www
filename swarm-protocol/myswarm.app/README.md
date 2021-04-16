@@ -14,5 +14,5 @@ mySwarm.app is a UI built on SPF contracts, issued on SRC20 protocol.
 
 **Manage your tokens, distribute dividends, and more.**
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
