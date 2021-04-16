@@ -1,3 +1,9 @@
+---
+description: >-
+  Note: This page describes an older version of the smart contract suite. We
+  will update it soon!
+---
+
 # SRC20
 
 ## Introduction

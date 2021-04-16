@@ -1,5 +1,7 @@
 ---
-description: '- BETA -'
+description: >-
+  Note: This page describes an older version of the smart contract suite. We
+  will update it soon!
 ---
 
 # Swarm Powered Fundraise
