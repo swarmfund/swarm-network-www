@@ -43,7 +43,8 @@
   * [Swarm Powered Fundraise Contract](swarm-protocol/spf/swarm-powered-fundraise-contract.md)
   * [Contributor Restrictions Contract](swarm-protocol/spf/contributor-restrictions-contract.md)
 * [mySwarm.app](swarm-protocol/myswarm.app.md)
-* [kovan.mySwarm.app \(test version, please use this\)](swarm-protocol/kovan-test-version.md)
+* [kovan.mySwarm.app (test version, please use this)](swarm-protocol/kovan-test-version.md)
+* [Mumbai Testnet](swarm-protocol/mumbai-testnet.md)
 
 ## Open tools
 
@@ -55,8 +56,7 @@
 
 * [Blog](https://medium.com/swarmfund)
 * [Twitter](https://twitter.com/Swarm)
-* [Discourse](https://community.swarm.fund/)
+* [Discourse](https://community.swarm.fund)
 * [Telegram](https://t.me/swarmfund)
 * [Voting App](https://snapshot.page/#/swarmnetwork.eth)
 * [FAQ](keep-up/faq.md)
-
